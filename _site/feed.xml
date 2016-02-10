@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chloe the Kayaking Chihuahua</title>
-    <description>The adventures of one excited Chihuahua on a beautiful island.
+    <description>The adventures of one excited Chihuahua on a beautiful island and the foolish humans she drags around.
 </description>
-    <link>http://wizardofwhimsy.github.io/blog//</link>
-    <atom:link href="http://wizardofwhimsy.github.io/blog//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Feb 2016 17:07:00 -0800</pubDate>
-    <lastBuildDate>Tue, 09 Feb 2016 17:07:00 -0800</lastBuildDate>
+    <link>http://wizardofwhimsy.github.io/blog/</link>
+    <atom:link href="http://wizardofwhimsy.github.io/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 09 Feb 2016 17:19:33 -0800</pubDate>
+    <lastBuildDate>Tue, 09 Feb 2016 17:19:33 -0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -37,8 +37,8 @@
 &lt;p&gt;The entries into this blog of our 2015 kayaking trips will be entered in belatedly. I kept notes of our kayaking, but we faced a bit of a learning curve when it came to making a blog. After some research, and help form my computer programmer son, we got it figured out. Once we get caught up and submit all of our 2015 stories, we hope to add future entires shortly after each of our expeditions.&lt;/p&gt;
 </description>
         <pubDate>Wed, 10 Feb 2016 00:43:59 -0800</pubDate>
-        <link>http://wizardofwhimsy.github.io/blog//about/2016/02/10/introduction.html</link>
-        <guid isPermaLink="true">http://wizardofwhimsy.github.io/blog//about/2016/02/10/introduction.html</guid>
+        <link>http://wizardofwhimsy.github.io/blog/about/2016/02/10/introduction.html</link>
+        <guid isPermaLink="true">http://wizardofwhimsy.github.io/blog/about/2016/02/10/introduction.html</guid>
         
         
         <category>about</category>
