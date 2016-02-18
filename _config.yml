@@ -1,84 +1,73 @@
-# External gems
-gems:
-  - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
+# Jykell configuration
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
+language: 'en-uk'
+
+# Website info
+name: 'Finding The Way Home'
+description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+
+# Author's info
+author: 'Casper McFadden'
+# edit 'categories' in the front matter of every post to match this username
+nickname: casper
+bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
+location: 'Maine, USA'
+url: 'http://biomadeira.github.io/jasper/'
+image: 'assets/images/casper.png'
+
+short_url: 'biomadeira.github.io/jasper/'
+google_analytics: UA-69281367-1
+disqus: username
+# edit baseurl to simply '/' if using as your personal page (instead of a project page)
+baseurl: /jasper/
+
+# Permalinks
+permalink: /:title
+# permalink: /author/:username
+# permalink: /tag/:tag
+
+
+# gems and other configs
+gems: [jekyll-paginate]
+exclude: [vendor]
+
+# Additional settings available on the front-matter
+# Site logo in the index.html (as in demo.ghost.io)
+# Author's page cover in _layouts/author.html
+# The same for page.html and tag.html layouts
+# Post's page cover as a per-post basis _posts/...
+# Disqus comments as a per-post basis
+# ...
+
+
+# Settings for builing master branch with travis-ci
+# with jekyll-travis
+
+# Settings for deploy rake task
+# Username and repo of Github repo, e.g.
+# https://github.com/USERNAME/REPO.git
+# username defaults to ENV['GIT_NAME'] used by Travis
+# repo defaults to USERNAME.github.io
+# Branch defaults to "source" for USERNAME.github.io
+# or "master" otherwise
+safe: false
+lsi: false
+username: biomadeira
+repo: jasper
+branch: master
+relative_source: ../jasper/
+destination: ../jasper-pages/
+production_url:  https://biomadeira.github.io/jasper/
+source_url:      https://github.com/biomadeira/jasper/
 
 exclude:
-  - "/vendor/"
-
-# Site settings
-title: Chloe the Kayaking Chihuahua
-subtitle: "Exploring North Vancouver Island!"
-email: chloe_admin@gmail.com
-name: Placeholder
-description: > 
-  The adventures of one excited Chihuahua on a beautiful island and the foolish humans she drags around.
-# Base URL of site (i.e. /blog). It should always start with a slash,
-# and never end with a slash. Set it to a blank value if hosting at the
-# root of your server.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://wizardofwhimsy.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
-
-# Build settings
-markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
-
-# Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives: 
-  enabled: 
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
-
-# Disqus comments
-disqus_shortname: deblynn
-
-# Google analytics
-# ga_tracking_id: "UA-XXXX-1"
-
-# Category descriptions (for archive pages)
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
-
-# Social icons and sharing options
-#
-# Social settings are used in two places:
-# * In the footer, as links to your personal profiles
-# * After each blog post for sharing widgets
-# 
-# Example:
-# 
-# social:
-#   - name: Twitter                         # Name of the service
-#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
-#     username: "@TheBenCentra"             # (User) Name to display in the footer link
-#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
-#     desc: Follow me on Twitter            # Description to display as link title, etc
-#     share: true                           # Include in the "Share" section of posts
-social:
- 
-# Social sharing protocols
-# These are for automatically generating sharing metadata for FB and Twitter
-# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
-protocols:
-    fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
-    fb_image_type: "image/png"
-
-    twitter_image: "/assets/logo.png"
-
-    os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
-    os_rcs_type: "git"
-    os_src: "git@github.com:RichardLitt/wordhoardpress.com.git"
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
