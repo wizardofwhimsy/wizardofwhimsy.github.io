@@ -8,7 +8,16 @@
     <title>Chloe the Kayaking Chihuahua</title>
     <link>http://chloethekayakingchihuahua.com</link>
     <description>One small dog discovering the beauty of Vancouver Island.</description>
-    <pubDate>Wed, 17 Feb 2016 02:18:00 -0800</pubDate>
+    <pubDate>Thu, 10 Mar 2016 09:15:00 -0800</pubDate>
+    <item>
+      <title>Link River: Secrets of the Forest Revealed</title>
+      <link>http://chloethekayakingchihuahua.com/link-river</link>
+      <description>&lt;b&gt;May 28, 2015&lt;/b&gt;
+
+</description>
+      <pubDate>Thu, 10 Mar 2016 09:15:00 -0800</pubDate>
+      <dc:date>2016-03-10T09:15:00-08:00</dc:date>
+    </item>
     <item>
       <title>Welcome to Port Alice: A Kayaker’s Paradise</title>
       <link>http://chloethekayakingchihuahua.com/kayakers-paradise</link>
@@ -45,6 +54,6 @@ The entries into this blog of our 2015 kayaking trips will be entered in belated
       <pubDate>Wed, 17 Feb 2016 02:18:00 -0800</pubDate>
       <dc:date>2016-02-17T02:18:00-08:00</dc:date>
     </item>
-    <dc:date>2016-02-17T02:18:00-08:00</dc:date>
+    <dc:date>2016-03-10T09:15:00-08:00</dc:date>
   </channel>
 </rss>
