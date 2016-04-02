@@ -8,7 +8,16 @@
     <title>Chloe the Kayaking Chihuahua</title>
     <link>http://chloethekayakingchihuahua.com</link>
     <description>One small dog discovering the beauty of Vancouver Island.</description>
-    <pubDate>Thu, 10 Mar 2016 09:15:00 -0800</pubDate>
+    <pubDate>Fri, 01 Apr 2016 10:15:00 -0700</pubDate>
+    <item>
+      <title>Atkins Cove: Lost and Lost Again!</title>
+      <link>http://chloethekayakingchihuahua.com/atkins</link>
+      <description>This is a story about two goofballs (and one Chihuahua) who got lost again, and again, and again.
+
+</description>
+      <pubDate>Fri, 01 Apr 2016 10:15:00 -0700</pubDate>
+      <dc:date>2016-04-01T10:15:00-07:00</dc:date>
+    </item>
     <item>
       <title>Link River: Secrets of the Forest Revealed</title>
       <link>http://chloethekayakingchihuahua.com/link-river</link>
@@ -54,6 +63,6 @@ The entries into this blog of our 2015 kayaking trips will be entered in belated
       <pubDate>Wed, 17 Feb 2016 02:18:00 -0800</pubDate>
       <dc:date>2016-02-17T02:18:00-08:00</dc:date>
     </item>
-    <dc:date>2016-03-10T09:15:00-08:00</dc:date>
+    <dc:date>2016-04-01T10:15:00-07:00</dc:date>
   </channel>
 </rss>
