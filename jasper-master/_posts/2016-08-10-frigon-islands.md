@@ -23,7 +23,7 @@ Frigon was only 5’2”, but he was strong as an ox, with a personality to suit
 
 We were getting pretty fast at loading and unloading the kayaks.  We launched at low tide at the Marina, but not at the boat dock because I think you have to pay.  We passed boats and a pole coated with mussels going up to the highest tide level.  We were heading in the direction of the Frigon Islands.  We passed around the north side, seeing the rocks encrusted with barnacles and plant life in a variety of hues.  When you launch at low tide, you get to see everything that lives under the water part time!  When we came around the other side we found a small cove with a pebbly beach.  We decided this was to be the place for our snack when we were ready. 
 
-![Friggon Islands](/assets/images/post5-friggon/palice_marine_1.jpg)*Port Alice Marina 1.*!
+![Friggon Islands](/assets/images/post5-friggon/palice_marine_1.jpg)*Port Alice Marina 1.*
 ![Friggon Islands](/assets/images/post5-friggon/palice_marine_2.jpg)*Port Alice Marina 2.* 
 ![Friggon Islands](/assets/images/post5-friggon/pole_mussels.jpg)*Pole of Mussels.*
 
