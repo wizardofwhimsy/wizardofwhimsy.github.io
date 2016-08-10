@@ -8,7 +8,16 @@
     <title>Chloe the Kayaking Chihuahua</title>
     <link>http://chloethekayakingchihuahua.com</link>
     <description>One small dog discovering the beauty of Vancouver Island.</description>
-    <pubDate>Sun, 22 May 2016 10:15:00 -0700</pubDate>
+    <pubDate>Wed, 10 Aug 2016 10:15:00 -0700</pubDate>
+    <item>
+      <title>&quot;Friggen&quot; Islands and &quot;Neurosis&quot; Inlet</title>
+      <link>http://chloethekayakingchihuahua.com/frigon-islands</link>
+      <description>&lt;b&gt;June 21, 2015&lt;/b&gt;
+
+</description>
+      <pubDate>Wed, 10 Aug 2016 10:15:00 -0700</pubDate>
+      <dc:date>2016-08-10T10:15:00-07:00</dc:date>
+    </item>
     <item>
       <title>Marble River: Forces of Nature</title>
       <link>http://chloethekayakingchihuahua.com/marble-river</link>
@@ -72,6 +81,6 @@ The entries into this blog of our 2015 kayaking trips will be entered in belated
       <pubDate>Wed, 17 Feb 2016 02:18:00 -0800</pubDate>
       <dc:date>2016-02-17T02:18:00-08:00</dc:date>
     </item>
-    <dc:date>2016-05-22T10:15:00-07:00</dc:date>
+    <dc:date>2016-08-10T10:15:00-07:00</dc:date>
   </channel>
 </rss>
