@@ -18,18 +18,18 @@ At the present time (fall 2016), the log dump is deactivated as a campsite, and 
 
 We knew we were driving into the log dump at Rupert Arm—our launch point for Varney Bay—when we saw logs.  To our surprise, however, we also saw a bunch of trailers and fifth wheels and a pack of friendly pouches.  We talked to a couple of the campers standing on a giant protruding driftwood log jutting out high above the water in front of a boat.  They told us that they were trying to make a makeshift dock with some wood they brought, but the plan was thwarted by the arrival of the log boom.  They said they were trying to get on their boat using the protruding driftwood and a ladder.  I couldn’t envision what they were trying to do, as it was looking rather impossible and pretty dangerous.  Perhaps it was a good thing the log boom was there, or they might have ended up needing an ambulance.  
 
-Rupert Inlet 
-Protruding driftwood
+![Rupert Inlet](/assets/images/post6-varney/rupertinlet.jpg)*Rupert Inlet.*
+![Protruding driftwood](/assets/images/post6-varney/protrudingdriftwood.jpg)*Protruding driftwood.*
 
 We first intended to get on the kayaks right away.  Since this seemed to be a busy place, we decided to put up our tent to mark our spot in case someone else came.  We then hopped in the kayaks and were off with a favourable tide and wind.  
 
-Chloe getting her lifejacket on
+![Chloe getting her jacket on](/assets/images/post6-varney/chloegettingherlifejacketon.jpg)*Chloe getting her jacket on.*
 
 With the tide and the wind going the same direction we were, it was a deceptively easy trip!  Coming back turned out to be a different thing altogether!  We paddled past the log boom and into the big water between Rupert Arm and Holberg Inlet.  James pointed out an island to me that was supposed to be in front of the Quatsino Narrows and talked again about riding the waves through the Narrows someday.  
 
 At first we couldn’t find Varney Bay, as the entrance was camouflaged by the surrounding scenery.  We kept paddling and eventually the huge bay made its appearance.  We were getting hot under the cloudless sky.  Skirting around an island, we found a spot to land so we could cool Chloe down and have a bathroom break.  The water where we docked was shallow for a good distance into the bay.  After having a drink from our supply of liquids, we waded into the water to cool ourselves to just above our ankles.  We then carried Chloe out into the shallow water for a few metres and let her swim back to shore on her own.  I was surprised how such a round dog with skinny little legs could swim so well!   
 
-Varney Bay
+![Varney Bay](/assets/images/post6-varney/varneybay.jpg)*Varney bay.*
 Video: Chloe going for a swim
 
 Like many places around here, Varney Bay is named after a North Island pioneer.  Lord Henry Varney left England and arrived in the Quatsino settlement on the steam ship, Mischief, in 1896, with his engraved calling card that identified him as the ‘the Queen’s Messenger’…which is a little curious.  As I read through the <i>Quatisino Chronicle<i/>, my main source of historical information on this area to date, I saw no record of him delivering any messages directly from the Queen.  Perhaps he saw himself as a vehicle of Commonwealth indoctrination.  He and his wife, Ethel, took up a 137 acre homestead at the mouth of the Marble River (probably not far from the very spot we were cooling ourselves down) and raised their nine children.  There was a boarded up fairly modern house on the shores of Varney Bay, just a little south of us—a sign of a good location for a homestead.  Lord Varney home schooled his children with the Bible and harsh lessons in frugality.  When he would send a couple of his children out to hunt—by themselves out amongst the bears and the cougars—he would only allow them a couple of shells and they had to come home with dinner.  He sounds like quite a character, our <i>Lord of this Neck of the Woods!<i/>
@@ -38,24 +38,24 @@ Back in the kayaks, we were having some doubts about finding this Marble River e
 
 Going around a bend in the river brought us into the shadowy world we were looking for.  Rock facades appeared out of the vegetation.  The river became mysteriously cool, dark and calm.  A few wedges of bright sunlight illuminated small sections of the shadowy estuary.  Where the light touched the water, it cast rippling reflections onto the rock walls.  The odd tree reached down and out, trying to catch the limited bits of sun.  For lack of flat ground, the ferns grew sideways on the cliffs.  Dripping water made tinkly sounds as it hit the water, then echoed.  Here and there, huge spaces were gouged out of the rocks just above the water surface—the handiwork of some intense spring runoff.  The musty smell of the forest was intensified by the enclosure.  Chloe’s eyed were deliriously wide as her nose stretched far out of her cockpit.  It turned out we weren’t alone.  We heard a big splash!  We discovered we were sharing this hideaway with a seal who seemed to get a kick out of scaring us.  
 
-Kayaking in the shadows
-Rock face 
-Emerald hues
-Caves
-Rippling reflections on rock walls 
-Eroded rock face
-Rock faces gouged out by spring runoff
-Chloe stretching her nose out of the cockpit
-A vertical forest 
-The view up
+![Kayaking in the shadows](/assets/images/post6-varney/kayakingintheshadows.jpg)*Kayaking in the shadows.*
+![Rock face](/assets/images/post6-varney/rockface.jpg)*Rock face.* 
+![Emerald hues](/assets/images/post6-varney/emeraldhues.jpg)*Emerald hues.*
+![Caves](/assets/images/post6-varney/caves.jpg)*Caves.*
+![Rippling reflections on rock walls](/assets/images/post6-varney/ripplingreflectionsonrockwalls.jpg)*Rippling reflections on rock walls.*
+![Eroded rock face](/assets/images/post6-varney/erodedrockface.jpg)*erodedrockface.jpg*
+![Rock faces gouged out by spring runoff](/assets/images/post6-varney/rockfacesgougedoutbyspringrunoff.jpg)*Rock faces gouged out by spring runoff.*
+![Chloe stretching her nose out of the cockpit](/assets/images/post6-varney/chloestretchinghernoseoutofthecockpit.jpg)*Chloe stretching her nose out of the cockpit.*
+![A vertical forest](/assets/images/post6-varney/averticalforest.jpg)*A vertical forest.*
+![The view up](/assets/images/post6-varney/theviewup.jpg)*The view up.*
 
 We came upon some rapids, but passable ones.  Without hesitation or even asking if I was willing, James just trudged on through, making it look easy.  When it was my turn, I discovered it was not so easy.  I had lifted my rudder and tried to go through, but was pushed back down sideways.   I ended up having to back up.  I put my rudder down and made another run for it, paddling harder than ever.  It felt like I was climbing a mountain!  James sat safely on the other side, watching and grinning.   I think he was thinking I wasn’t going to make it through, but I did!  When I made it to calm water he cheered and said, “Aren’t proud of yourself for having done that?”  I didn’t see it as that much of an accomplishment, just something that had to be done.  Besides I was a farm girl: I was used to dealing with difficult physical limitations without all the fanfare. 
 
 We went around a couple of bends and then came to a sharp turn in the river with rapids, a cave, and a swirling current.  We weren’t going to be able to get past the rapids, so we decided to make a stop.  The shore was steep.  It was a complicated maneuver to land.  James got off first with ease, but I was still pretty iffy getting out of the boat (you can take the girl out of the prairie, but not the prairie out of the girl).  He held the boat and I grabbed a rock and pulled myself out like a sack of potatoes.  We tied the kayaks very securely to a small tree on the rocks.  If we lost the kayaks, it would be difficult and dangerous to retrieve them in this environment.  James kept thinking we should portage and go up further, but we ended up just staying there for no particular reason.  Later, when he googled it at home, he figured out Bear Falls might have been not far from there.  We walked around on the water-rounded rocks under a sun shining down hot and hard.  We were in our own little private oasis, notwithstanding the odd cougar or bear hanging out behind the bushes (occasionally, I honked my bicycle bear horn for security).  Not expecting to run into anyone else, we had our picnic and did some sun-bathing—swim suits optional.  James, Mr. Fast Twitch Muscle Stunt-man Sprinter Guy and Glutton for Punishment, of course, had to jump in the water for some hooting and hollering.  He tried to swim to the next bend, but couldn’t see much.  When he swam back he kept challenging me to get in the water.  I opted instead to sit in the water and watch the water flow by.  We spent a leisurely afternoon in our oasis, until the shadows moved over our picnic spot and it was time to head back. 
 
-Rapids
-Cave over swirling current
-Trees above our oasis
+![Rapids](/assets/images/post6-varney/rapids.jpg)*Rapids.*
+![Cave over swirling current](/assets/images/post6-varney/caveoverswirlingcurrent.jpg)*Cave over swirling current.*
+![Trees above our oasis](/assets/images/post6-varney/treesaboveouroasis.jpg)*Trees above our oasis.*
 
 The trip down river seemed so much shorter than the trip up.  Since we didn’t have to fight the current and the tide, we spent much more time looking around.  When we got back to the estuary, the water was much lower and we had to navigate carefully around the rocks.  Where before there was smooth water, we found rapids—but they were easy to handle because we were travelling with the flow of the river.  At the mouth of the estuary, we took a left turn and checked out a little cove, switching boats because the seat of the Eskia was digging into my back.  It was hot so we opted to take the shadow route back on the west side of Varney Bay, especially for Chloe’s sake.  
 
@@ -65,14 +65,14 @@ Getting back to camp, James got out of his kayak, dragged mine up the shore and 
 Coming out of my nap, I heard to the grunting and groaning of a tugboat taking logs away.  I got up to take pictures.  By the evening, the log 
 boom was gone. We started a fire, visited a bit with our human and doggie neighbours and took numerous pictures of the sunset over Rupert Inlet. 
 
-Tugboat at work
-Pastel sunset 
-Rococo sunset 
-Harmony in red and blue
-Sunset with virga 
-Golden sunset
+![Tugboat at work](/assets/images/post6-varney/tugboatatwork.jpg)*Tugbot at work.*
+![Pastel sunset](/assets/images/post6-varney/pastelsunset.jpg)*Pastel sunset.*
+![Rococo sunset](/assets/images/post6-varney/rococosunset.jpg)*Rococo sunset.*
+![Harmony in red and blue](/assets/images/post6-varney/harmonyinredandblue.jpg)*Harmony in red and blue.*
+![Sunset with virga](/assets/images/post6-varney/sunsetwithvirga.jpg)*Sunset with virga.*
+![Golden sunset](/assets/images/post6-varney/goldensunset.jpg)*Golden sunset.*
 
-June 28, 2015,
+<b>June 28, 2015</b>,
 
 After the magnificent trip down the estuary, we were expecting a low-key day.  It didn’t turn out that way.  Somehow, James, Chloe and I seem to have a real knack for finding adventure.  We first contemplated just lazing around all morning.  With the water very still and the coming of slack tide around noon, we got lured into cutting across the Rupert Arm Inlet to visit the old Utah Mine site.  
 
@@ -80,14 +80,14 @@ We talked about my need for a hat and sunglasses.  I tried to put a pair of Jame
 
 While we were getting ready, Chloe waited dutifully by the kayaks across the roadway.  She now gets eager to go on a kayak ride like she does a car ride!  Even though she seemed to look forward to the ride, she did nothing but whine all the way across.  We eventually figured out she was probably too hot, and that we would have to keep wetting her down.  We arrived at the north end of the mine and paddled in, out and around the maze of logs and machinery, feeling like kids in an adult sized playground.  
 
-Chloe eager to kayak
-Utah mine ore conveyer 
-Utah mine docking pier
-Hi Daddy!
+![Chloe eager to kayak](/assets/images/post6-varney/chloeeagertokayak.jpg)*Chloe eager to kayak.*
+![Utah mine ore conveyer](/assets/images/post6-varney/utahmineoreconveyer.jpg)*Utah mine ore conveyer.*
+![Utah mine docking pier](/assets/images/post6-varney/utahminedockingpier.jpg)*Utah mine docking pier.*
+![Hi Daddy!](/assets/images/post6-varney/hidaddy.jpg)*Hi Daddy!*
 
 Paddling south of the mine, we came upon the artificial cove created to fill the old copper mine site when it was closed nearly 20 years ago.  James, the Campbell River native, said it took a long time to fill up.  My research tells me it took from May 15th to August 15th in 1996 to be exact.  When the mine site was finally filled, it was sealed off from the cove.  It was then left to nature—in a very big way as we would soon find out!  As we paddled deeper into the man-made cove, we were both looking at a spot with a cliff and tall dark and spooky looking pine trees.  A gigantic eagle soared from tree to tree, looking not the least bit intimidated by our presence.   We were actually intimidated by his, because of Chloe.  An eagle could easily pick up a dog like Chloe.  When I first went to a mountain lookout, I had my then 10-year old son with me and I was told, to my amazement, an eagle would be able to pick him up!  It seems hard to believe, was probably unlikely (especially since I always kept him close by) but was very possible!  James and I have seen footage on TV of an eagle flying while dangling a mountain goat from its claws!    
 
-The eagle
+![The eagle](/assets/images/post6-varney/theeagle.jpg)*The eagle.*
 
 We came up to a spot near the end of the cove with a flat sandy beach under some old twisted pines.  As we approached we peered into a small clearing in the bushes and thought we saw a deer.  It was certainly the size of a deer.  It seemed to move like a deer.  It was definitely the colour of a deer.  I shouted to James to look.  He also thought it was a deer.  Then, the creature turned in a way that was very <i>undeerlike<i/>.  Even without my glasses I could see that it was definitely not a deer, as its tail was way too long and bushy!  I yelled “It’s a wolf!”  The wolf gave us perturbed look, then walked off on his incredibly long legs.  
 
@@ -117,27 +117,27 @@ In some indigenous cultures, young people have to perform a rite of passage by t
 
 James came up to me a little cautiously.  He asked me for permission to join me and permission was granted.  We threw stones in the water.  As our ripples merged, it created a glittery effect on the water that seemed to go on and on—long after the ripples were done being ripples. We sat quietly, enjoying the light and colour, until Venus dropped down from a sheet of middle cloud, then Jupiter.  
 
-Venus and Jupiter
-Inky sunset
+![Venus and Jupiter](/assets/images/post6-varney/venusandjupiter.jpg)*Venus and jupiter.*
+![Inky sunset](/assets/images/post6-varney/inkysunset.jpg)*Inky sunset.*
 
 <b>June 29, 2015</b>
 
 Our neighbours moved out, leaving their smouldering fire as if they thought it would somehow put itself out!  I was shocked, especially when a forest officer drove into the campsite a couple of days before to remind us to put out our campfires and that a fire ban was imminent!  As the campfire culprit drove away, he stopped and generously handed us some of his catch of prawns and crab.  Thanks for the fish, but not for nearly burning down our forests!   With slightly stunned looks, we graciously accepted the offering.  We decided to shift camp and use his fire for our crab and prawn feast.  We put Chloe on a folding camp chair with an umbrella to block out the sun.  James made a bit of garlic butter for the prawns and fried them up.  We boiled up the crab and sat breaking them and munching on them for quite some time.  It wasn’t just <i>eating<i/>, it was <i>playing<i/> too.  James said you could tell the meat was fresh because it was plump—no shrinkage.  We doused the fire completely and took a picture of it for old time’s sake.  We partially loaded up the truck, but left the tent up because our comforter was drying on top of it.  
 
-Seafood feast
-Chloe getting some shade
-The fire is out!
+![Seafood feast](/assets/images/post6-varney/seafoodfeast.jpg)*Seafood feast.*
+![Chloe getting some shade](/assets/images/post6-varney/chloegettingsomeshade.jpg)*Chloe getting some shade.*
+![The fire is out!](/assets/images/post6-varney/thefireisout.jpg)*The fire is out!*
 
 Before going back home, we opted for a “short quick trip” across the inlet, which turned out to be a lot more than that.  Because of the heat, we rigged up an umbrella on the boat so Chloe could have some shade.  It produced a lot of laughs.  We headed for what we thought was an island.  We paddled straight and steady.  After reaching the other side, we saw a couple of quiet coves with clear greenish water.  Just when we were about to land, the water started churning up.  I got panicky and insisted we go straight back.  James said, “Hold on a minute here, I’m not going anywhere without my snack!” so we docked at the cove.  James gets lots of “snack attacks”; in fact, he is a virtually non-stop eating machine!  It’s a mystery why he stays so slim!  I am beginning to think that peoples’ metabolisms are as unique and varied as their personalities.    
 
-Chloe kayaking with an umbrella
-Now do we look silly or what!
+![Chloe kayaking with an umbrella](/assets/images/post6-varney/chloekayakingwithanumbrella.jpg)*Chloe kayaking with an umbrella.*
+![Now do we look silly or what!](/assets/images/post6-varney/cnowdowelooksillyorwhat.jpg)*Now do we look silly or what!*
 
 We found a nice log to sit on in front of a massive tree stump.  We watched the waves churn about as we ate!  We were especially vigilant about keeping Chloe on the leash, after seeing Mr. Wolf and Mr. Eagle yesterday.  I took pictures of a giant stump and the sea asparagus on the shore.  If you’re ever a contestant on the TV series <i>Alone<i/>, you can get your vitamins from sea asparagus.  They are OK to eat raw.  They are salty and a bit crunchy, reminding me of potato chips.  You can also use them to make stir fries, and even pickles.  I made a batch of sea asparagus pickles and found them to be quite tasty, though James hasn’t been willing to brave them so far.  Oh well, all the more for me!  The interesting thing about making stuff from foraged food is that it is hard to eat in the beginning, simply because it is so unfamiliar.  Once you make the paradigm shift, you can never go back!  Something similar bought in the store just doesn’t have the character and richness as something made with foraged or home grown food.  For recipes for sea asparagus pickles and stir fries, check out Google.  I found a good pickle recipe at <i>www.westcoastseaweed.com.<i/>
 
-Driftwood stump
-Sea asparagus
-Sea asparagus pickles
+![Driftwood stump](/assets/images/post6-varney/driftwoodstump.jpg)*Driftwood stump.*
+![Sea asparagus](/assets/images/post6-varney/seaasparagus.jpg)*Sea asparagus.*
+![Sea asparagus pickles](/assets/images/post6-varney/seaasparaguspickles.jpg)*Sea asparagus pickles.*
 
 Between watching <i>Alone<i/>, and doing my own research, I am amazed at the amount of available food there is in nature.  I’ve even seen hungry <i>Alone<i/> contestants walk past stuff they could have made a hardy meal out of!  You need to know what you’re are doing though, as, in my estimation, about half the stuff that is out in nature is poisonous.  It is amazing that animals know what’s safe and what’s not without access to the internet!  They have <i>another<i/> internet that they use.  Maybe some day we humans might have full access to <i>that<i/> internet…and then maybe we can clean up the mess we are making of our planet!   
 
@@ -145,8 +145,8 @@ When we were done eating, all our cameras out of power, we put them in the dry b
 
 After we landed I found a blanket and lay there immobile for quite some time.  James came over and gave me a sympathy cuddle and continued to pack up the truck.  I joked that he can load up the truck and I’ll supervise and make sure he’s doing a good job. 
 
-My truck looking like a Christmas tree!
-Road to civilization
+![My truck looking like a Christmas tree!](/assets/images/post6-varney/mytrucklookinglikeachristmastree.jpg)*My truck looking like a Christmas tree!*.
+![Road to civilization](/assets/images/post6-varney/roadtocivilization.jpg)*Road to civilization.*
 
 
 
