@@ -8,7 +8,16 @@
     <title>Chloe the Kayaking Chihuahua</title>
     <link>http://chloethekayakingchihuahua.com</link>
     <description>One small dog discovering the beauty of Vancouver Island.</description>
-    <pubDate>Wed, 10 Aug 2016 10:15:00 -0700</pubDate>
+    <pubDate>Fri, 02 Dec 2016 09:15:00 -0800</pubDate>
+    <item>
+      <title>Varney Bay: Time Travel and Other Illusions</title>
+      <link>http://chloethekayakingchihuahua.com/varney-bay</link>
+      <description>&lt;b&gt;June 27, 2015&lt;/b&gt;
+
+</description>
+      <pubDate>Fri, 02 Dec 2016 09:15:00 -0800</pubDate>
+      <dc:date>2016-12-02T09:15:00-08:00</dc:date>
+    </item>
     <item>
       <title>&quot;Friggen&quot; Islands and &quot;Neurosis&quot; Inlet</title>
       <link>http://chloethekayakingchihuahua.com/frigon-islands</link>
@@ -81,6 +90,6 @@ The entries into this blog of our 2015 kayaking trips will be entered in belated
       <pubDate>Wed, 17 Feb 2016 02:18:00 -0800</pubDate>
       <dc:date>2016-02-17T02:18:00-08:00</dc:date>
     </item>
-    <dc:date>2016-08-10T10:15:00-07:00</dc:date>
+    <dc:date>2016-12-02T09:15:00-08:00</dc:date>
   </channel>
 </rss>
