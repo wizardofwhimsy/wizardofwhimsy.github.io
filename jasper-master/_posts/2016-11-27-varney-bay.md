@@ -11,6 +11,8 @@ categories: 'dlynn'
 
 We agreed to get up at 7 am so we could get to Rupert Arm and Varney Bay at around 11 am for the high tide.  We wanted to take advantage of the tide, to let it carry us easily toward Varney Bay.  I slept at my place to give the cats some company before our long time away, and James stayed at his.  Leah, our regular cat sitter, was away, so I had to ask my neighbour, Cathy Anderson, to cat sit for me.  I didn’t want to ask Cathy to cat sit for me unless I absolutely needed it, as she won’t accept payment.  Cathy does a lot of volunteer work in Port Alice.  She has done so much volunteer work over the years that she can’t even remember it all; but, presently, she volunteers at the Port Alice Recycle Centre, The Legion, the Thrift Shop and at the school.  She will even help out whenever someone has a personal or health crisis!  In fact, she has even won the Governor General’s Award for volunteerism in 1988!   I call her the “Guardian Angel of Port Alice,” as she plays a major role in keeping the community going.  As payment for her good deeds, every summer I give her some elephant garlic from my garden.  She loves to get her garlic!  When I give it to her, she has such a beaming look on her face, you’d think I was giving her a bag full of money!  
 
+![Cathy](/assets/images/post6-varney/cathy.jpg).*Cathy Anderson.*
+
 After I had my bath, I called James.  He was already up for a while packing up the truck.  He had put both kayaks on the truck, the Manitou in the back and the Eskia on the roof.  When I saw it, I thought my truck looked like a Christmas tree!  We were leaving the Camry behind this time.  James had charted out our route very carefully in the hope that we wouldn’t get lost.  He even suggested we stop at the side of the road once to check the map and, lo and behold, all cross roads were properly taken!  
 To get to Varney Bay, turn left from Highway 19 at the Port Alice turnoff to Highway 30, “The Port Alice Road.”  Follow it for 10.6 kilometres, until you reach a gravel road crossing the pavement, and take a right onto Hardy Main.  Follow the gravel road for 4.5 kilometres until you reach a “Y” in the road.  Be careful to stay on the main road, until the “Y.”  There is at least a half dozen possible wrong turns you could take that could lead you to nowhere, or worse than nowhere!  When you see a sign saying “Varney Main,” take a left.  After travelling 1.5 kilometres, take Varney Main West and continue on Varney Main West for 5 kilometres.  To get to the log dump campsite, take a right.
 
@@ -44,7 +46,7 @@ Going around a bend in the river brought us into the shadowy world we were looki
 ![Emerald hues](/assets/images/post6-varney/emeraldhues.jpg)*Emerald hues.*
 ![Caves](/assets/images/post6-varney/cave.jpg)*Caves.*
 ![Rippling reflections on rock walls](/assets/images/post6-varney/ripplingreflectionsonrockwalls.jpg)*Rippling reflections on rock walls.*
-![Eroded rock face](/assets/images/post6-varney/erodedrockface.jpg)*erodedrockface.jpg*
+![Eroded rock face](/assets/images/post6-varney/erodedrockface.jpg)*Eroded rock face.*
 ![Rock faces gouged out by spring runoff](/assets/images/post6-varney/rockfacesgougedoutbyspringrunoff.jpg)*Rock faces gouged out by spring runoff.*
 ![Chloe stretching her nose out of the cockpit](/assets/images/post6-varney/chloestretchinghernoseoutofthecockpit.jpg)*Chloe stretching her nose out of the cockpit.*
 ![A vertical forest](/assets/images/post6-varney/averticalforest.jpg)*A vertical forest.*
@@ -75,10 +77,7 @@ boom was gone. We started a fire, visited a bit with our human and doggie neighb
 
 <b>June 28, 2015</b>,
 
-After the magnificent trip down the estuary, we were expecting a low-key day.  It didn’t turn out that way.  Somehow, James, Chloe and I seem to have a real knack for finding adventure.  We first contemplated just lazing around all morning.  With the water very still and the coming of slack tide around noon, we got lured into cutting across the Rupert Arm Inlet to visit the old Utah Mine site.  
-
-We talked about my need for a hat and sunglasses.  I tried to put a pair of James’s sunglasses over mine, but it didn’t work.  I took my glasses off and put on the sunglasses alone.  I was surprised that there didn’t seem to be much difference in my vision. As near sighted people get older, their vision improves.  I put my prescription glasses in the dry bag and just used the sunglasses.  It wasn’t a fashion statement, but it worked.  I opted to go without a hat, as none of James’ hats fit my head (hats rarely do) and I have plenty of hair for protection anyway.  
-
+After the magnificent trip down the estuary, we were expecting a low-key day.  It didn’t turn out that way.  Somehow, James, Chloe and I seem to have a real knack for finding adventure.  We first contemplated just lazing around all morning.  With the water very still and the coming of slack tide around noon, we got lured into cutting across the Rupert Arm Inlet to visit the old Utah Mine site.  We talked about my need for a hat and sunglasses.  I tried to put a pair of James’s sunglasses over mine, but it didn’t work.  I took my glasses off and put on the sunglasses alone.  I was surprised that there didn’t seem to be much difference in my vision. As near sighted people get older, their vision improves.  I put my prescription glasses in the dry bag and just used the sunglasses.  It wasn’t a fashion statement, but it worked.  I opted to go without a hat, as none of James’ hats fit my head (hats rarely do) and I have plenty of hair for protection anyway.  
 While we were getting ready, Chloe waited dutifully by the kayaks across the roadway.  She now gets eager to go on a kayak ride like she does a car ride!  Even though she seemed to look forward to the ride, she did nothing but whine all the way across.  We eventually figured out she was probably too hot, and that we would have to keep wetting her down.  We arrived at the north end of the mine and paddled in, out and around the maze of logs and machinery, feeling like kids in an adult sized playground.  
 
 ![Chloe eager to kayak](/assets/images/post6-varney/chloeeagertokayak.jpg)*Chloe eager to kayak.*
@@ -118,7 +117,7 @@ In some indigenous cultures, young people have to perform a rite of passage by t
 
 James came up to me a little cautiously.  He asked me for permission to join me and permission was granted.  We threw stones in the water.  As our ripples merged, it created a glittery effect on the water that seemed to go on and on—long after the ripples were done being ripples. We sat quietly, enjoying the light and colour, until Venus dropped down from a sheet of middle cloud, then Jupiter.  
 
-![Venus and Jupiter](/assets/images/post6-varney/venusandjupiter.jpg)*Venus and jupiter.*
+![Venus and Jupiter](/assets/images/post6-varney/venusandjupiter.jpg)*Venus and Jupiter.*
 ![Inky sunset](/assets/images/post6-varney/inkysunset.jpg)*Inky sunset.*
 
 <b>June 29, 2015</b>
