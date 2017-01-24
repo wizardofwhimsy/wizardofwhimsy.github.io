@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>Chloe the Kayaking Chihuahua</title>
+    <title>Author</title>
     <meta name="description" content="Chloe the Kayaking Chihuahua - One small dog discovering the beauty of Vancouver Island." />
 
     <meta name="HandheldFriendly" content="True" />
@@ -53,7 +53,7 @@
     <link rel="alternate" type="application/rss+xml" title="Chloe the Kayaking Chihuahua" href="/rss.xml" />
 
 </head>
-<body class="tag-template nav-closed">
+<body class="author-template nav-closed">
 
     <div class="nav">
     <h3 class="nav-title">Menu</h3>
@@ -64,9 +64,6 @@
         <li class="nav-home " role="presentation"><a href="/">Home</a></li>
         <li class="nav-about " role="presentation"><a href="/about">About</a></li>
 	<li class="nav-welcome " role="presentation"><a href="/kayakers-paradise">Welcome</a></li>
-	<li class="nav-linkriver " role="presentation"><a href="/link-river">Link River</a></li>
-	<li class="nav-atkins " role="presentation"><a href="/atkins">Atkins Cove</a></li>
-	
     </ul>
     <a class="subscribe-button icon-feed" href="/rss.xml">Subscribe</a>
 </div>
@@ -76,37 +73,45 @@
     <div class="site-wrapper">
 
         <!-- [[! Everything else gets inserted here ]] -->
-        <!-- < dynamically overriding backgrounds for tags as well as descriptions -->
-
-<!--
-
-<!-- < default}} -->
+        <!-- < default}} -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
-<!-- If we have a tag cover, display that - else blog cover - else nothing -->
-<header class="main-header tag-head " style="background-image: url(/assets/images/cover2.jpg) ">
-    <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="/"><img src="/assets/images/ghost.png" alt="Blog Logo" /></a>
-        
-            <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
-        
-    </nav>
-    <div class="vertical">
-        <div class="main-header-content inner">
-            <h1 class="page-title">Welcome</h1>
-            <h2 class="page-description">
+<!-- The big featured header -->
+
+<!-- Everything inside the #author tags pulls data from the author -->
+<!-- #author  -->
+    <header class="main-header author-head " style="background-image: url(/assets/images/cover2.jpg) ">
+        <nav class="main-nav overlay clearfix">
+            <a class="blog-logo" href="/"><img src="/assets/images/ghost.png" alt="Blog Logo" /></a>
             
-			    A 1-post collection
+                <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
             
-            </h2>
+        </nav>
+    </header>
+
+    <section class="author-profile inner">
+        
+        <figure class="author-image">
+            <div class="img" style="background-image: url(/assets/images/chloe.jpg)"><span class="hidden">Debra Lynn's Picture</span></div>
+        </figure>
+        
+        <h1 class="author-title">Debra Lynn</h1>
+        
+            <h2 class="author-bio">Author, illustrator, Debra Lynn takes up kayaking on Vancouver Island with her boyfriend and his cute little Chihuahua named Chloe.</h2>
+        
+        <div class="author-meta">
+            <span class="author-location icon-location">Port Alice, BC</span>
+            <span class="author-link icon-link"><a href="http://chloethekayakingchihuahua.com">chloethekayakingchihuahua.com</a></span>
+            <!-- <span class="author-stats"><i class="icon-stats"></i> [[plural ../pagination.total empty='No posts' singular='% post' plural='% posts']]</span> -->
+            <span class="author-stats"><i class="icon-stats"></i>1 post</span>
         </div>
-    </div>
-</header>
+    </section>
+<!-- /author -->
 
 <!-- The main content area on the homepage -->
 <main id="content" class="content" role="main">
 
-    <!-- The tag below includes the post loop - partials/loop.hbs -->
+    <!-- The tag below includes the post loop - partials/loop.hbs  -->
         <!-- Previous/next page links - only displayed on page 2+ -->
     <div class="extra-pagination inner">
         
@@ -122,10 +127,10 @@
     
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="/kayakers-paradise">Welcome to Port Alice: A Kayaker’s Paradise</a></h2>
+            <h2 class="post-title"><a href="/link-river">Link River: Secrets of the Forest Revealed</a></h2>
         </header>
         <section class="post-excerpt">
-            <p>Hello, my name is Debra Lynn. I live in Port Alice with my partner, James, two cats named Pepper and Mr. Magoo, and an adorable little... <a class="read-more" href="/kayakers-paradise">&raquo;</a></p>
+            <p>For our first official kayaking trip, we decided on Link River and Alice Lake. Because they were familiar and close to home, we thought they would... <a class="read-more" href="/link-river">&raquo;</a></p>
         </section>
         <footer class="post-meta">
             <img class="author-thumb" src="/assets/images/chloe.jpg" alt="Author image" nopin="nopin" />
@@ -136,11 +141,11 @@
                 on 
                 
                     
-                       <a href='/tag/welcome'>Welcome</a>
+                       <a href='/tag/kayaking'>Kayaking</a>
                        
                 
             
-            <time class="post-date" datetime="2016-02-17">17 Feb 2016</time>
+            <time class="post-date" datetime="2016-03-10">10 Mar 2016</time>
         </footer>
     </article>
     
