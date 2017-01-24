@@ -82,4 +82,4 @@ Once we were on shore, we discovered we were more tired than we originally thoug
 
 I would like to say a special thanks to Evelyn Hartford at the Port Alice Tourist Information centre for providing me with historical information for this and future blog entries. A lot of the history of Port Alice cannot easily be found in mainstream information sources. Thankfully, people like her are indispensable for keeping this information preserved and bringing awareness to that fact before it is forever lost to the passage of time.
 
-<i>I'd like to thank Gwen Hansen at the Quatsino Museum for providingme with information on Ed Frigon for this and future posts. I hopes she's right, and that someone makes a movie about "Old Ned" someday.<i/>
+<i>I'd like to thank Gwen Hansen at the Quatsino Museum for providingme with information on Ed Frigon for this and future posts. I hopes she's right, and that someone makes a movie about "Old Ned" someday.</i>
