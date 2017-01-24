@@ -2,7 +2,7 @@
 layout: post
 cover: false
 title: "The Wild West Coast and the Rogue Wave Rodeo"
-date: 2016-01-22 17:15:00
+date: 2017-01-22 17:15:00
 tags: kayaking
 subclass: 'post tag-kayaking'
 categories: 'dlynn'
@@ -30,7 +30,8 @@ After we passed LeMare Lake we came across a fork in the road with a sign post t
 
 We found ourselves on a mountain cut block and quite nearly at the very top! We stopped at a little pull-out (emphasis on the “little”) because I really had to get out. My Nervous Nellie jitters turned into a full blown panic attack. I got out of the truck and didn’t care if I had to walk all the way down! Even so, I still grabbed the camera and took numerous shots of the incredible view! I couldn’t conceive how anyone could turn around on that narrow road with not much of a pull out, but somehow James did it! When I got back to Port Alice, I told one of my bosses, Rhetta Vesna at the Ozzieland Campground, about this. She informed me that she and her husband, Ozzie, ended up doing the very same thing back in the day…except, they didn’t just have a measly little pick up truck…they had a truck and trailer! Somehow they lived to tell about it! Rhetta says that’s probably why she has heart trouble today!
 
-![Gooding Cove](/assets/images/post7-gooding/quatsino_sound)*View of Quatsino Sound.*
+![Gooding Cove](/assets/images/post7-gooding/quatsino_sound.jpg)*View of Quatsino Sound.*
+
 Rhetta and Ozzie: would anyone like to buy a campground? They would really like to retire!
 
 At the bottom, we took the other fork, crossed the bridge over Lamere River and passed by a rock slide that gave us cause to pause. On Restless Main, we passed Harvey Cove, stopping a couple times to take pictures. Arriving at Gooding Cove, we met a couple of campers and had a chat with them before setting up. They warned us not to drive on the sandy beach with our 2-wheel drive. They suggested instead that we camp on a ledge at the side of the cove that was close to the road. To camp on the beach would have meant too much walking with our heavy gear, so we agreed that the ledge was the solution. We mentioned we were bloggers and got quite a reaction. They suddenly got horrified looks on their faces and begged us to not tell anyone about this place. How’s <i>that</i> an endorsement for you! I figure if only a handful of people know about places like this, they may end up getting used for some less than aesthetic purpose. The more people that know about places like Gooding Cove, the more likely they will be preserved and protected. 
@@ -64,7 +65,7 @@ After a short stretch on rocky open ocean, we soon found ourselves in a tranquil
 
 ![Gooding Cove](/assets/images/post7-gooding/tranquil_cove.jpg)*The tranquil cove.*
 ![Gooding Cove](/assets/images/post7-gooding/photo_cameo.jpg)*A photographic cameo effect.*
-![Gooding Cove](/assets/images/post7-gooding/smooth_paddling.jpg)*Smooth paddling.*
+![Gooding Cove](/assets/images/post7-gooding/smoothpaddling.jpg)*Smooth paddling.*
 
 Passing over calm waters between two rocks in between two islands, I felt my kayak suddenly rise up! I screeched at James, but it wasn’t enough warning. I rose about a metre into the air, but managed to avoid a splashing! Instead, James, who was little ahead of me, got swamped! It was a rogue wave! I remembered that when I paddled up to the rocks and looked out at the ocean, I could see no sign of waves for at least a kilometre! That mischievous wave had sneaked into the cove incognito, suddenly appearing under us the very moment we were passing between the two innocuous rocks. One is inclined to thing there was some kind of intelligence at work here! Thankfully, Chloe didn’t get swamped a second time, as she was in the Manitou with me. James, on the other hand, had to pull out the bilge pump. 
 
