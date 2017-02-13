@@ -2,7 +2,7 @@
 layout: post
 cover: false
 title: "The Wild West Coast and the Rogue Wave Rodeo"
-date: 2017-01-22 17:15:00
+date: 2017-02-12 17:15:00
 tags: kayaking
 subclass: 'post tag-kayaking'
 categories: 'dlynn'
