@@ -8,11 +8,20 @@
     <title>Chloe the Kayaking Chihuahua</title>
     <link>http://chloethekayakingchihuahua.com</link>
     <description>One small dog discovering the beauty of Vancouver Island.</description>
-    <pubDate>Sun, 22 Jan 2017 09:15:00 -0800</pubDate>
+    <pubDate>Sun, 12 Feb 2017 09:15:00 -0800</pubDate>
     <item>
       <title>The Wild West Coast and the Rogue Wave Rodeo</title>
       <link>http://chloethekayakingchihuahua.com/gooding-cove</link>
       <description>&lt;b&gt;August 4, 2015&lt;/b&gt;
+
+</description>
+      <pubDate>Sun, 12 Feb 2017 09:15:00 -0800</pubDate>
+      <dc:date>2017-02-12T09:15:00-08:00</dc:date>
+    </item>
+    <item>
+      <title>Cluxewe Resort: The Big Gamble</title>
+      <link>http://chloethekayakingchihuahua.com/Cluxewe</link>
+      <description>&lt;b&gt;July 7, 2015&lt;/b&gt;
 
 </description>
       <pubDate>Sun, 22 Jan 2017 09:15:00 -0800</pubDate>
@@ -99,6 +108,6 @@ The entries into this blog of our 2015 kayaking trips will be entered in belated
       <pubDate>Wed, 17 Feb 2016 02:18:00 -0800</pubDate>
       <dc:date>2016-02-17T02:18:00-08:00</dc:date>
     </item>
-    <dc:date>2017-01-22T09:15:00-08:00</dc:date>
+    <dc:date>2017-02-12T09:15:00-08:00</dc:date>
   </channel>
 </rss>
