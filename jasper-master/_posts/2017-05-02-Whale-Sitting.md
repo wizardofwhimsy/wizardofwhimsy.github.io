@@ -3,7 +3,7 @@ layout: post
 cover: false
 title: "Neroutsos Inlet: When the Ocean Sneezes…!"
 date: 2017-05-02 17:15:00
-tags: kayaking
+tags: other
 subclass: 'post tag-kayaking'
 categories: 'dlynn'
 ---
