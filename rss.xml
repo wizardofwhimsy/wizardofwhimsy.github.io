@@ -8,7 +8,16 @@
     <title>Chloe the Kayaking Chihuahua</title>
     <link>http://chloethekayakingchihuahua.com</link>
     <description>One small dog discovering the beauty of Vancouver Island.</description>
-    <pubDate>Sun, 14 May 2017 10:15:00 -0700</pubDate>
+    <pubDate>Tue, 11 Jul 2017 10:15:00 -0700</pubDate>
+    <item>
+      <title>The Starfish Are Having A Party</title>
+      <link>http://chloethekayakingchihuahua.com/Starfish-Party</link>
+      <description>&lt;b&gt;October 4, 2015&lt;/b&gt;
+
+</description>
+      <pubDate>Tue, 11 Jul 2017 10:15:00 -0700</pubDate>
+      <dc:date>2017-07-11T10:15:00-07:00</dc:date>
+    </item>
     <item>
       <title>A Rupert Inlet Snippet</title>
       <link>http://chloethekayakingchihuahua.com/A-Rupert-Inlet-Snippet</link>
@@ -99,6 +108,6 @@
       <pubDate>Wed, 17 Feb 2016 02:18:00 -0800</pubDate>
       <dc:date>2016-02-17T02:18:00-08:00</dc:date>
     </item>
-    <dc:date>2017-05-14T10:15:00-07:00</dc:date>
+    <dc:date>2017-07-11T10:15:00-07:00</dc:date>
   </channel>
 </rss>
