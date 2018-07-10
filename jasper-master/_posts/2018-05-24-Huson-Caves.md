@@ -1,7 +1,7 @@
 ---
 layout: post
 cover: false
-title: "Huson Caves and Little Huson Lake: Stuck in a Labyrinth with Shifting"
+title: "Huson Caves and Little Huson Lake: Stuck in a Labyrinth with Shifting Walls"
 date: 2018-05-24 17:15:00
 tags: Kayaking
 subclass: 'post tag-kayaking'
@@ -30,7 +30,8 @@ We were back on the road and headed to Huson Caves, not sure what we would do ab
 The campsite is small, so it can only hold two, maximum three sets of campers. Hidden behind some bushes was the campsite of a young couple with a terrier and weiner dog. We also had a brief visit from a large crowd of people who just looked around and left. Our neighbours stayed until Monday. We had the beautiful picturesque spot all to ourselves on Tuesday. 
 
 We had recently bought a Nikon 3300. After pitching our tents, I went out and checked out what it could do around our campsite, which wasn’t much. I had a lot to learn. We later went out on the kayaks for a short paddle, but we didn’t have our usual amount of energy. Even Chloe seemed too pooped to kayak. Because it was the middle of the day, the water was wavy. We were heading toward other end of lake, but James hinted that it was farther than it looked. I suggested we head back. 
-Chloe at the helm. 
+
+![Huson Caves](/assets/images/post13-husoncaves/chloe_at_the_helm.edited.jpg)*Chloe at the helm.*
 
 On the way back to the campsite, we thought we could go past the logs and access the caves to the north. When I saw James working hard at it, I decided to land and save that battle for another day. I needed to purge my work week out of my head before I could do anything. James paddled around the driftwood for a while. When he came back, he determined that we could paddle there to get to the caves, however far the water lets us go—which, as it turned out—wasn’t very far at all! 
 We spent the rest of the evening trying to take photos of the moon and Jupiter in the dark that ended up being just squiggly lines on a black background. I used James’s app to find out what other planets we might be able to see. We found out Mars was by the moon. Neptune and Pluto were on the other side of the mountain, though probably not visible to us anyway. I was falling asleep sitting up. I dragged myself to bed without brushing my teeth and slept like a rock all night…which is a rarity for me these days. 
@@ -48,9 +49,9 @@ We peered at what we thought was the entrance to the cave. It was choked up by m
 
 We turned around to go back, but that was a problem! I was fiddling with the camera and quite oblivious to my surroundings. James was a bit ahead of me when I heard his expression of dismay. What? I asked, only half interested. “We’re trapped,” he moaned. In the short time that we were there, all the logs that we had passed by got pushed together by the wind after it had changed direction. It had closed the gap we had entered by and we were definitively trapped! 
 
-My dear, I do believe we are in a pickle! 
+![Huson Caves](/assets/images/post13-husoncaves/i_do_believe_we_are_in_a_pickle.edited.jpg)*My dear, I do believe we are in a pickle!* 
 
-Panic started to set in. There were a lot of logs in our way. It seemed to be more than we had passed to get there. Maybe we could have walked on top of them all the way back to shore, but we would have had to leave our kayaks behind, or we would have had to drag them across the logs trying hard not to trip, fall into the water or damage our kayaks! We headed to a part of the lake that seemed to have less logs, though there were some gigantic ones among them. James pushed a few of the logs out of the way to make a path through the jam. He warned me to keep close behind him or the driftwood would quickly close up and block me in. We struggled and fought, pushing and pulling on logs from our kayaks. Chloe was getting so distressed by our distress that she kept trying to crawl into my cockpit. Even though we were in the midst of catastrophe, I couldn’t help but reach for my camera several times, which, with fact that we were trapped, was making James even more irritable. What can I say, I am a slave to aesthetics! Finally, he told me to put that @#&*# camera down. We managed to forge ahead, James creating openings in the logs, and I following close behind. Then we came upon a gigantic immovable log that was tightly jammed up at both ends! 
+Panic started to set in. There were a lot of logs in our way. It seemed to be more than we had passed to get there. Maybe we could have walked on top of them all the way back to shore, but we would have had to leave our kayaks behind, or we would have had to drag them across the logs trying hard not to trip, fall into the water or damage our kayaks! We headed to a part of the lake that seemed to have less logs, though there were some gigantic ones among them. James pushed a few of the logs out of the way to make a path through the logjam. He warned me to keep close behind him or the driftwood would quickly close up and block me in. We struggled and fought, pushing and pulling on logs from our kayaks. Chloe was getting so distressed by our distress that she kept trying to crawl into my cockpit. Even though we were in the midst of catastrophe, I couldn’t help but reach for my camera several times, which, with fact that we were trapped, was making James even more irritable. What can I say, I am a slave to aesthetics! Finally, he told me to put that @#&*# camera down. We managed to forge ahead, James creating openings in the logs, and I following close behind. Then we came upon a gigantic immovable log that was tightly jammed up at both ends! 
 
 ![Huson Caves](/assets/images/post13-husoncaves/chloe_oblivious.edited.jpg)*Chloe oblivious.*
 ![Huson Caves](/assets/images/post13-husoncaves/move_you_damn_logs.edited.jpg)*Move you damn logs!*
@@ -59,12 +60,11 @@ That’s when James got out of the kayak and started jumping on top of the log i
 
 ![Huson Caves](/assets/images/post13-husoncaves/now_what.edited.jpg)*Now what!*
 ![Huson Caves](/assets/images/post13-husoncaves/abandoned_kayak.edited.jpg)*Abandoned kayak.*
-![Huson Caves](/assets/images/post13-husoncaves/log_jamb.edited.jpg)*Log jamb.*
+![Huson Caves](/assets/images/post13-husoncaves/log_jamb.edited.jpg)*Logjam.*
 
 Back at the campsite, we discovered that the campfire that we thought was out, actually wasn’t! I have to admit, I had lapsed in my vigilance. Because it had burned down and stopped producing flames and smoke, it was easy to do. By the time we came back, it was smoking again. See folks! Just because a campfire looks like its out, 
 doesn’t mean it is! All it needed was the heat of the mid day and the wind to bring it back to life. 
 
-Video: revived campfire.
 ![Huson Caves](/assets/images/post13-husoncaves/the_campfire_is_out.edited.jpg)*The campfire is out!*
 
 James then asked what we are going to do now. I said we go hiking. 
@@ -110,11 +110,11 @@ Like he had springs for feet, James was up the rock face and gone into the darkn
 
 On our way back up the stairs, James got into a conversation with a hiker, talking about a hole James saw on the way down. The hiker told him where the various branches of the cave go. He showed him a hole to go in, and they crawled through, along with the guys’ wife. I decided to stay back, claiming a touch of claustrophobia, or maybe just being burnt out from taking so many photos and not being willing to crawl and creep around tight spaces on slippery rocks with a finicky Chihuahua. 
 
-While James was in the cave, I met our neighbours from our camping spot. They informed us about a decommissioned trail to check out. Instead of going straight back to our vehicle, we hung a left and walked passed a sign that told us not to enter. This is not a move I recommend, as there was a risk of running into things like sinkholes and underground passages…so I didn’t tell you to do this! The trail led to a dirt and rock bridge that had collapsed. Unable to proceed further, we had a good look around. We saw the other side of our lake with the log jam where we were trying to access the caves in our kayaks. We had a good laugh: we were actually thought we could paddle through that! We met a couple of batches of people on the trail and had discussions with them about secret hideaways on Vancouver Island, that is, until they found out we were bloggers and the conversations abruptly came to an end. 
+While James was in the cave, I met our neighbours from our camping spot. They informed us about a decommissioned trail to check out. Instead of going straight back to our vehicle, we hung a left and walked passed a sign that told us not to enter. This is not a move I recommend, as there was a risk of running into things like sinkholes and underground passages…so I didn’t tell you to do this! The trail led to a dirt and rock bridge that had collapsed. Unable to proceed further, we had a good look around. We saw the other side of our lake with the logjam where we were trying to access the caves in our kayaks. We had a good laugh: we were actually thought we could paddle through that! We met a couple of batches of people on the trail and had discussions with them about secret hideaways on Vancouver Island, that is, until they found out we were bloggers and the conversations abruptly came to an end. 
 
 ![Huson Caves](/assets/images/post13-husoncaves/we_thought_we_could_kayak_through_this.jpg)*We thought we could paddle through this!*
 
-After leaving the caves, James and I later went cutting firewood at the brush piles further up the road. I sat on the truck watching him. He seemed to get carried away and cut more logs than we could ever use. We ended up taking some home at the end of camping trip and leaving a lot behind for the next set of campers.
+After leaving the caves, James and I later went cutting firewood at the brush piles further up the road. I sat on the truck watching him. He seemed to get carried away and cut more logs than we could ever use. We ended up taking some home at the end of our camping trip and leaving a lot behind for the next set of campers.
 
 After supper, I was taking pictures of the sunset. James hopped in the kayak without saying anything and took off across the lake in the semi dark. He went quite far until I couldn’t see him. I was starting to think of calling 911 again when he eventually emerged out of the evening darkness. 
 
@@ -126,7 +126,7 @@ After supper, I was taking pictures of the sunset. James hopped in the kayak wit
 James got up early, around 8, and I stayed comatose in bed until about 10. We were planning to go on the water early to benefit from the calmness. When I came out of the tent, it was cloudy. James said the waves weren’t going to do anything anyway. We hung around until about 12, walking Chloe, having breakfast and drinking lots of coffee.
 
 ![Huson Caves](/assets/images/post13-husoncaves/overcast.edited.jpg)*Overcast.*
-![Huson Caves](/assets/images/post13-husoncaves/chloe_with_reflections.jpg)*Chloe with reflections. *
+![Huson Caves](/assets/images/post13-husoncaves/chloe_with_reflections.jpg)*Chloe with reflections.*
 
 We paddled along the rocky shore of the lake, exploring cave-like indentations, and an outcropping of rock that looked like a giant horse’s hoof. As I was dawdling behind, preoccupied with taking photos, James took off and hid around the next point. I had no trouble figuring out where he went because, paddling on a still fresh water lake, he left a very noticeable trail of bubbles in his wake. I saw a yellow line on the rocks and asked if this lake has a bit of a tide. James said it was from spring runoff, the line marking the level of the water when it was at its highest. The yellow colour comes from the tree pollen. It reminded me of a carpenter’s chalk line. 
 
@@ -140,7 +140,8 @@ Lo and behold, we found <i>another</i> cabin in the BC wilderness! The water was
 ![Huson Caves](/assets/images/post13-husoncaves/the_cabin.jpg)*The cabin.*
 ![Huson Caves](/assets/images/post13-husoncaves/someone_left_in_a_fit.jpg)*Someone left in a fit.*
 
-After I got back in the kayak and waited for James on the water, I heard a gun shot that told us there were people around. We paddled toward the campsite where there was an SUV. By the time we got there, the SUV was gone. Their campfire rim was still warm, but their fire was definitely out. Good show, guy, whoever you are! It later turned out, he was someone James worked with. James figured it out by noticing a photo of Huson Lake on Facebook some time later and finding out who took it. 
+After I got back in the kayak and waited for James on the water, I heard a gun shot that told us there were people around. We paddled toward the campsite where there was an SUV. By the time we got there, the SUV was gone. Their campfire rim was still warm, but their fire was definitely out. Good show, guy, whoever you are! It later turned out he was someone James worked with. James figured it out by noticing a photo of Huson Lake on Facebook some time later and finding out who took it. 
+
 We walked down the river to some rapids, trying to figure out how to make the endless stream effect with the camera. We were still so woefully ignorant about the operation of our camera. We walked toward the beach and saw an odd wood construction: a wood frame facing the lake. We read the inscription on it that said, “See TV.” We sat and watched the “natural” TV program of waves on Little Huson Lake while we ate our snack. 
 
 ![Huson Caves](/assets/images/post13-husoncaves/dreamy_green.edited.jpg)*Dreamy green.*
@@ -149,9 +150,11 @@ We walked down the river to some rapids, trying to figure out how to make the en
 The wind picked up. We realized we had better head back. I had had my fill of photos, so I took the Eskia (Tigger) this time. I noticed how tippy it was, but also how fast it was. It just slips along. The Manitou (Eeyore) seemed like a tractor by comparison, but it is a tractor we need, for Chloe and the camera box. 
 Shadows and reflections. 
 
-For our last evening at this special little spot, we had a supper of Greek salad and steak with Cajun spice. We started up conversation about the camera and how to get certain effects. I asked James if he still wanted to go on a night kayak ride. He said his typical “do you want to?” which means he doesn’t really want to. I then had an idea. Since James had an alone kayak the night before, I thought it was my turn to have an alone kayak in the evening light. He promised to take some pictures of me in the hopes of getting some good ones, since I had been complaining that he takes such bad photos of me. Even though he doesn’t have much to work with, he always seems to get me at a bad angle, in a bad light, or when I’m mussed up or frumpy. If I was dressed up to the nines, probably the last thing he’d think of is to reach for the camera! 
+![Huson Caves](/assets/images/post13-husoncaves/chloe_with_reflections.jpg)*Shadows and reflections.*
 
-Going on the water alone like that, it was like a meditation. For some reason, the clutter that moves around in the brain seems to suddenly disappear. I didn’t “think, and it was easy. I just listened to the birds and looked around, paddling a few strokes and then drifting. When I meditate, it is quite a discipline. Meditating alone on the kayak, though, came quite naturally. I did do some deliberate thinking though. I imagined what this place looked like before people. There would still be birds singing, but the mountains would be completely covered in trees and there would be no cut blocks or logging roads. There on the lake, I was in a timeless zone. When I came back, James actually took some not bad pictures of me, including the one where I’m sticking out my tongue (oh well, you take what you can get). Clearing one’s head can be highly beneficial in unforeseen ways. There’s nothing like a little pre-historic time travel to rid your brain of busy work week. 
+For our last evening at this special little spot, we had a supper of Greek salad and steak with Cajun spice. We started up a conversation about the camera and how to get certain effects. I asked James if he still wanted to go on a night kayak ride. He said his typical “do you want to?” which means he doesn’t really want to. I then had an idea. Since James had an alone kayak the night before, I thought it was my turn to have an alone kayak in the evening light. He promised to take some pictures of me in the hopes of getting some good ones, since I had been complaining that he takes such bad photos of me. Even though he doesn’t have much to work with, he always seems to get me at a bad angle, in a bad light, or when I’m mussed up or frumpy. If I was dressed up to the nines, probably the last thing he’d think of is to reach for the camera! 
+
+Going on the water alone like that, it was like a meditation. For some reason, the clutter that moves around in the brain seems to suddenly disappear. I didn’t "think", and it was easy. I just listened to the birds and looked around, paddling a few strokes and then drifting. When I meditate, it is quite a discipline. Meditating alone on the kayak, though, came quite naturally. I did do some deliberate thinking though. I imagined what this place looked like before people. There would still be birds singing, but the mountains would be completely covered in trees and there would be no cut blocks or logging roads. There on the lake, I was in a timeless zone. When I came back, James actually took some not bad pictures of me, including the one where I’m sticking out my tongue (oh well, you take what you can get). Clearing one’s head can be highly beneficial in unforeseen ways. There’s nothing like a little pre-historic time travel to rid your brain of busy work week. 
 
 ![Huson Caves](/assets/images/post13-husoncaves/alone_kayak.edited.jpg)*Alone kayak.*
 ![Huson Caves](/assets/images/post13-husoncaves/raspberries_to_you.jpg)*Raspberries to you.*
