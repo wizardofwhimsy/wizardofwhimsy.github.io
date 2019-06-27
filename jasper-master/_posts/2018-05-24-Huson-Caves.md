@@ -65,10 +65,11 @@ That’s when James got out of the kayak and started jumping on top of the log i
 Back at the campsite, we discovered that the campfire that we thought was out, actually wasn’t! I have to admit, I had lapsed in my vigilance. Because it had burned down and stopped producing flames and smoke, it was easy to do. By the time we came back, it was smoking again. See folks! Just because a campfire looks like its out, 
 doesn’t mean it is! All it needed was the heat of the mid day and the wind to bring it back to life. 
 
-![Huson Caves](/assets/images/post13-husoncaves/the_campfire_is_out.edited.jpg)*The campfire is out!*
-
+{% youtube 0Nnu3f8P8bc %}
 James then asked what we are going to do now. I said we go hiking. 
 We ate our kayaking snack, then soaked our fire until we were sure it was completely out. Because we forgot to bring a day pack, we ended up having to use my laptop back pack to carry our hiking supplies. We drove back up the hill to the trail head with the park signs and the outhouses. We studied the map, read some of the info, and were off. I kept taking pictures of everything from moss to old man’s hairs. James was getting very impatient for a normally patient guy. He ended up walking ahead on his own, while I dawdled and clicked away like a woman obsessed. 
+
+![Huson Caves](/assets/images/post13-husoncaves/the_campfire_is_out.edited.jpg)*The campfire is out!*
 
 ![Huson Caves](/assets/images/post13-husoncaves/are_you_coming_or_not.edited.jpg)*Are you coming or not?*
 
@@ -148,7 +149,6 @@ We walked down the river to some rapids, trying to figure out how to make the en
 ![Huson Caves](/assets/images/post13-husoncaves/see_tv.edited.jpg)*See TV.*
 
 The wind picked up. We realized we had better head back. I had had my fill of photos, so I took the Eskia (Tigger) this time. I noticed how tippy it was, but also how fast it was. It just slips along. The Manitou (Eeyore) seemed like a tractor by comparison, but it is a tractor we need, for Chloe and the camera box. 
-Shadows and reflections. 
 
 ![Huson Caves](/assets/images/post13-husoncaves/chloe_with_reflections.jpg)*Shadows and reflections.*
 
