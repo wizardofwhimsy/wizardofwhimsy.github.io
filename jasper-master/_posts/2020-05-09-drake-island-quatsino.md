@@ -1,5 +1,13 @@
+---
+layout: post
 cover: false
 title: "Drake Island and Quatsino: Ghosts of the Sound"
+date: 2020-05-12 17:15:00
+tags: Kayaking
+subclass: 'post tag-kayaking'
+categories: 'dlynn'
+---
+
 Ed or “Ned” Frigon was born in Maurice, Quebec. At the age of 21 he left his family to find riches in the California Gold Rush of 1848-55. He took a boat to Panama, then crossed the isthmus by foot through mud, swamps, tropical heat by day and swarms of mosquitos by night. Making it to the Pacific coast in a little over a week, he took passage on a schooner to San Francisco. Although he managed to find gold, it was never enough to overcome the overinflated living costs in the area. He left the mines in disgust. He worked for a time in the San Francisco Bay area; then, not happy with the warm climate, he headed further up the coast. He eventually landed in Victoria, BC. In 1857, after accumulating a tidy savings, he headed to Hope Island on the north end of Vancouver Island to be a fur-trader.
 
  Frigon was one of the first few white men to live among the local Indigenous population. He appeared to get along well with them; but, from time to time, a few “cultural disparities” would emerge. 
@@ -22,7 +30,7 @@ To get to Drake Island we up launching from Atkin’s Cove, a place we had been 
 
 If you look hard enough, on the south west side of the pull-out, you will see an opening in the shrubs which should be marked with florescent ribbon. That is the trail head. If you walk into the woods to the west, you will start to see water. If you read about our first adventure to Atkin’s Cove from years back, you will see how we got terribly lost! Check out my post, “Atkin’s Cove: Lost and Lost Again!” and have a laugh!
 
-![Drake-Island]()*Entrance to the trail to Atkin’s Cove*
+![Drake-Island](/assets/images/post14-drakeisland/Entrance to the trail to Atkin's Cove.JPG)*Entrance to the trail to Atkin’s Cove*
 
 James and I were originally going to launch at Kokwina Cove (which is a little portage to the east of the goat trail) that is at the edge of the Quatsino Narrows with all its nasty currents. We were going to time the tides to go out just before slack tide. I was apprehensive about the idea but didn’t say anything. Then, out of the blue, James voiced misgivings. I told him that if he’s uncertain, then I’m scared you-know-what-less! We talked about it some more, then concluded there were too many unknowns. We decided to take Atkin’s Cove to Drake Island instead. I said I would be willing to try Kokwina some day, but not with Chloe.
 
@@ -40,7 +48,7 @@ As soon as we came around the point to calmer waters, we met a community of Harb
 
 When we crossed the inlet to the east side of Drake Island, our stomachs started complaining. It was 3 o’clock and we had only had breakfast. We landed briefly for a snack. Although we were on Drake Island, we still had a considerable paddle to get to Pamphlet Cove. As we paddled around the large island, we were getting impatient. We kept saying, “are we there yet?” It took a while, but we finally got there!
 
-![Drake-Island](/assets/images/post14-drakeisland/Kayaks ladned on the east side of Drake Island.JPG)*Kayaks landed on the east side of Drake Island*
+![Drake-Island](/assets/images/post14-drakeisland/Kayaks landed at east side of Drake Island.JPG)*Kayaks landed on the east side of Drake Island*
 ![Drake-Island](/assets/images/post14-drakeisland/Chloe inspecting the cuddy.JPG)*Chloe inspecting the cuddy*
 ![Drake-Island](/assets/images/post14-drakeisland/paddling in the kelp.JPG)*Paddling in the kelp*
 ![Drake-Island](/assets/images/post14-drakeisland/Kayaking Chloe with kelp.JPG)*Kayaking Chloe with kelp*
@@ -78,9 +86,9 @@ After about an hour, James was back to his old self and being very poetic about 
 
 We landed in the area were Ed Frigon’s old floating wharf used to be. All that was left was a construction of poles covered with barnacles embedded in a very mucky shoreline. Half hidden in the trees was an upside-down boat, weathered, worn, with a couple of gaping holes in the bottom—definitely no longer sea-worthy!
 
-![Drake-Island](/assets/images/post14-drakeisland/Frigon's old floating wharf.JPG)*Frigon’s old floating wharf*
+![Drake-Island](/assets/images/post14-drakeisland/Frigon's old floating warf (2).JPG)*Frigon’s old floating wharf*
 ![Drake-Island](/assets/images/post14-drakeisland/Barnacle encrusted relic.JPG)*Barnacle encrusted relic*
-![Drake-Island](/assets/images/post14-drakeisland/No longer seaworthy.JPG)*No longer seaworthy*
+![Drake-Island](/assets/images/post14-drakeisland/No longer sea worthy.JPG)*No longer seaworthy*
 
 We walked around the forest looking for places to camp. We found the “Green Throne” built by BC Marine Trails. We prided ourselves in being one of the first few people to use it! We found some flat places with nice soft moss among the trees, which was in the area of the foundation of Frigon’s hotel. We didn’t think it was a good place to have a campfire. There were too many “forest fuels” around. We admired the holly and foxgloves—plants not native to the BC wilderness—that have been growing here for over a century. 
 
@@ -102,12 +110,12 @@ We watched the tide creep up slowly over the course of the evening. We kept tryi
 
 I was very tired, because I hadn’t slept much the night before, and James was just tired We weren’t willing to wait around until 2 am for the high tide point. It turned out we had miscalculated the tide readings and it would not be as bad as originally expected. We didn’t think it would reach the grass—because grass can’t grow under sea water—but we weren’t sure. We thought it might only go to the sea asparagus, in which case our tent, only on grass, should be fine, though it would have been very close.
 
-![Drake-Island](/assets/images/post14-drakeisland/Sea asparagus growing up-side-down.JPG)*Sea asparagus growing upside-down*
+![Drake-Island](/assets/images/post14-drakeisland/Sea asparagus growing up-side-down..JPG)*Sea asparagus growing upside-down*
 
 We ended up working ourselves into a tizzy. We decided to move the tent to a higher point just to put the issue to rest. It was too bad because the other spot was so nice and soft and grassy. At the higher spot, we had to sleep on rocks and roots! When we got up in the night, James concluded that we probably would’ve been OK down below.
 
 ![Drake-Island](/assets/images/post14-drakeisland/Our tent on nice soft grass.JPG)*Our tent on nice soft grass* 
-![Drake-Island](/assets/images/post14-drakeisland/Our tent on rocks and roots.JPG)*Our tent on rocks and roots*
+![Drake-Island](/assets/images/post14-drakeisland/Our tend on rocks and roots.JPG)*Our tent on rocks and roots*
 
 <b>July 20, 2016</b>
 
@@ -120,13 +128,13 @@ We crossed the sound diagonally, seeing many passing speed boats. We saw a shore
 
 We cut around an island and a small peninsula. Finally, we came up to a lighthouse and then noticed a cove with a wharf, boats and a concentration of houses. We had finally arrived at Quatsino. We saw St. Olaf’s church and wondered if it was the church in Emily Carr’s painting, <i>The Indian Church</i>. It turned out not to be. When she was painting here in 1930, the church was a school. 
 
-![Drake-Island](/assets/images/post14-drakeisland/The Quartsino Lighthouse.JPG)*The Quatsino Lighthouse*
+![Drake-Island](/assets/images/post14-drakeisland/The Quatsino Lighthouse.JPG)*The Quatsino Lighthouse*
 ![Drake-Island](/assets/images/post14-drakeisland/View of St. Olaf's from the water.JPG)*View of St. Olaf’s Church seen from the water*
-![Drake-Island]()*Emily Carr’s painting  <i>The Indian Church<i/>, 1929*
+![Drake-Island](/assets/images/post14-drakeisland/indian_church.jpg)*Emily Carr’s painting  <i>The Indian Church</i>, 1929*
 
 We paddled under the wharf, and, after landing, found ourselves in the company of a community of snakes zipping about hither and thither. 
 
-![Drake-Island](/assets/images/post14-drakeisland/Driftwood root lodged under the dock.JPG)*Driftwood root lodged under the dock **
+![Drake-Island](/assets/images/post14-drakeisland/Driftwood root lodged under the dock.JPG)*Driftwood root lodged under the dock*
 
 Since I had been living in Port Alice, I had never seen Quatsino, but heard of many heard stories about it. I envisioned it as a place with aging hippies, huge gardens and peacocks running about freely. One of the residents there who has peacocks brought a huge bouquet of peacock feathers to the Legion one day. I ended up getting a few of them from the bartender I babysat for. 
 
@@ -158,10 +166,10 @@ Video: Snakes!
 
 For the trip back to Atkin’s Cove, I was back in Tigger and James in Eeyore. We paddled over the sound surprisingly fast. We took only 15 minutes to cross it. The snakes must have given us some of their energy.
 
-![Drake-Island](/assets/images/post14-drakeisland/kelp bed by Quatsino.JPG)*Kelp bed by Quatsino*
+![Drake-Island](/assets/images/post14-drakeisland/kelp bed by Quatsino.jpg)*Kelp bed by Quatsino*
 ![Drake-Island](/assets/images/post14-drakeisland/Going from Quatsino to Atkin's.jpg)*Going from Quatsino to Atkin’s*
 ![Drake-Island](/assets/images/post14-drakeisland/The point before Atkin's Cove.JPG)*The point before Atkin’s Cove*
-![Drake-Island](/assets/images/post14-drakeisland/Sea onions at Atkin's Cove.jpg)*Sea Onions at Atkin’s Cove*
+![Drake-Island](/assets/images/post14-drakeisland/Sea onions at Atkin's Cove.JPG)*Sea Onions at Atkin’s Cove*
 ![Drake-Island](/assets/images/post14-drakeisland/Our well marked trail to the truck.JPG)*Our “well marked” trail to the truck*
 ![Drake-Island](/assets/images/post14-drakeisland/Dreamland.JPG)*Dreamland*
 ![Drake-Island](/assets/images/post14-drakeisland/truck with kayaks.edited.jpg)*Truck with kayaks*
