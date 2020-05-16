@@ -7,11 +7,18 @@ tags: Kayaking
 subclass: 'post tag-kayaking'
 categories: 'dlynn'
 ---
+<i>I’d like to give a special thanks to three people for helping me with this post: Gwen Hansen of the Quatsino Museum and Archives for providing historical information on Ed Frigon; Jane Hutton of the Port Hardy Museum and Archives for allowing me to photograph images of Ed Frigon and his hotel; and, my friend and friendly neighbour, Evelyn Hartford, for providing me with a  photograph of Frigon’s hotel, articles and for being a general all round valuable resource for historical information on the North Island.</i>
+
+<b>July 19, 2016</b>
+
+We wanted to go out on Neroutsos Inlet to Drake Island where the notorious Ed Frigon had his hotel and trading post between 1895 and 1917. We had been talking about the idea for a while. It took some convincing to get James on side for it: he thought our kayaks wouldn’t be big enough to carry all the stuff we needed. We finally concluded it shouldn’t be that hard, since many have paddled all the way around the Island with just their kayaks for carrying supplies…for a good stretch anyway. As it turned out, after paring down a few items, there was plenty of room for what we needed. Sea kayaks are big kayaks.  
+
+Ed Frigon is one of Port Alice’s favourite historical “characters.” The very picturesque islands on Neroutsos Inlet are named after him. Frigon was an entrepreneur, an adventurer and a man with a mind of his own. He also had several wives, though not all at the same time. 
 
 Ed or “Ned” Frigon was born in Maurice, Quebec. At the age of 21 he left his family to find riches in the California Gold Rush of 1848-55. He took a boat to Panama, then crossed the isthmus by foot through mud, swamps, tropical heat by day and swarms of mosquitos by night. Making it to the Pacific coast in a little over a week, he took passage on a schooner to San Francisco. Although he managed to find gold, it was never enough to overcome the overinflated living costs in the area. He left the mines in disgust. He worked for a time in the San Francisco Bay area; then, not happy with the warm climate, he headed further up the coast. He eventually landed in Victoria, BC. In 1857, after accumulating a tidy savings, he headed to Hope Island on the north end of Vancouver Island to be a fur-trader.
 
- Frigon was one of the first few white men to live among the local Indigenous population. He appeared to get along well with them; but, from time to time, a few “cultural disparities” would emerge. 
- 
+Frigon was one of the first few white men to live among the local Indigenous population. He appeared to get along well with them; but, from time to time, a few “cultural disparities” would emerge. 
+
 The material goods in his store could incite envy in people who knew nothing but living off the land. A small group of unscrupulous men once plotted to kill him and divide his goods among themselves. Forewarned by his Indigenous wife at the time, the night of the planned attack he locked all the doors and windows and slept with several loaded weapons by his bed. It turned out that the locked door was enough to thwart the plan. 
 
 The next day Frigon opened his store and behaved as if nothing had happened, but had a message sent to the authorities in Victoria. A few weeks later a gunboat appeared, heading in the direction of Hope Island. Upon landing, the commander of the vessel warned the First Nations community that they would be punished should anything ever happen to Ed Frigon. After seeing many Indigenous communities decimated by the colonists, they considered this a serious threat. Thereafter, Frigon was accompanied by an entourage of Indigenous bodyguards wherever he went, to the point it became a serious encumbrance to him. 
