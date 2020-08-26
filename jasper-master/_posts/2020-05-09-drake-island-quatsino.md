@@ -33,7 +33,7 @@ Frigon carried on trading on Hope Island until 1889, then built a second trading
 ![Drake-Island](/assets/images/post14-drakeisland/Elderly Ed Frigon.JPG)*Elderly Ed Frigon*
 ![Drake-Island](/assets/images/post14-drakeisland/Frigon's hotel getting floated to the mill.JPG)*Frigon’s hotel getting floated to the mill*
 
-To get to Drake Island we up launching from Atkin’s Cove, a place we had been to before. To get there you take Neroutsos Main north of Port Alice on the east side of Neroutsos Inlet. Keep going on Neroutsos Main for 12 kilometres. Make sure to keep a careful eye on your odometer—it might be the only way you’ll be able to find the proper turn. About halfway there you will see a fork in the road with a branch that goes up the mountain. Don’t take it. That’s Quarry Main. It won’t take you to Atkin’s Cove, but it will take you up the mountain for an incredible view! Go up too far and you will definitely be needing a four-wheel drive and a strong stomach for driving on high mountain roads! Once you pass a side road on Nertoutsos Main with a wire across it, go a few metres further and turn left along a little “goat trail” that’s just wide enough for a vehicle to pass. Sometimes it is overgrown with shrubs, but sometimes it’s brushed. Drive for about a half a kilometre to a pull-out where you can park. In total, you shouldn’t go over 13 km from Port Alice. Any more than that and you’re lost! Let me remind you that if you go out into the bush, make sure to inform someone where you’re going and when you plan to be back so you don’t have to wait for days or even weeks before someone realizes you are missing. 
+To get to Drake Island we ended up launching from Atkin’s Cove, a place we had been to before. To get there you take Neroutsos Main north of Port Alice on the east side of Neroutsos Inlet. Keep going on Neroutsos Main for 12 kilometres. Make sure to keep a careful eye on your odometer—it might be the only way you’ll be able to find the proper turn. About halfway there you will see a fork in the road with a branch that goes up the mountain. Don’t take it. That’s Quarry Main. It won’t take you to Atkin’s Cove, but it will take you up the mountain for an incredible view! Go up too far and you will definitely be needing a four-wheel drive and a strong stomach for driving on high mountain roads! Once you pass a side road on Nertoutsos Main with a wire across it, go a few metres further and turn left along a little “goat trail” that’s just wide enough for a vehicle to pass. Sometimes it is overgrown with shrubs, but sometimes it’s brushed. Drive for about a half a kilometre to a pull-out where you can park. In total, you shouldn’t go over 13 km from Port Alice. Any more than that and you’re lost! Let me remind you that if you go out into the bush, make sure to inform someone where you’re going and when you plan to be back so you don’t have to wait for days or even weeks before someone realizes you are missing. 
 
 If you look hard enough, on the south west side of the pull-out, you will see an opening in the shrubs which should be marked with florescent ribbon. That is the trail head. If you walk into the woods to the west, you will start to see water. If you read about our first adventure to Atkin’s Cove from years back, you will see how we got terribly lost! Check out my post, “Atkin’s Cove: Lost and Lost Again!” and have a laugh!
 
@@ -81,6 +81,7 @@ I shook my head in the negative.
 Again, he said, “You are joking?” 
 I shook my head again. 
 
+
 We repeated that little interchange a couple of times more until he started to make the paradigm shift and acquire a very startled look. 
 
 I told him I was over the spot where it fell. In a frenzy, he got out of his boat in the shallow water, rolled up his shorts up to his hips and walked onto the rocks, frenetically searching and reaching in the water for his phone. 
@@ -115,7 +116,7 @@ We set up camp and then took a walk in the forest, taking pictures of the foxglo
 
 We watched the tide creep up slowly over the course of the evening. We kept trying to figure out if our tent would end up submerged. It was to be an especially high tide: 11ft. We were getting anxious, staying up as late as possible to figure out how close it would get. 
 
-I was very tired, because I hadn’t slept much the night before, and James was just tired We weren’t willing to wait around until 2 am for the high tide point. It turned out we had miscalculated the tide readings and it would not be as bad as originally expected. We didn’t think it would reach the grass—because grass can’t grow under sea water—but we weren’t sure. We thought it might only go to the sea asparagus, in which case our tent, only on grass, should be fine, though it would have been very close.
+I was very tired, because I hadn’t slept much the night before, and James was just tired. We weren’t willing to wait around until 2 am for the high tide point. It turned out we had miscalculated the tide readings and it would not be as bad as originally expected. We didn’t think it would reach the grass—because grass can’t grow under sea water—but we weren’t sure. We thought it might only go to the sea asparagus, in which case our tent, only on grass, should be fine, though it would have been very close.
 
 ![Drake-Island](/assets/images/post14-drakeisland/Sea asparagus growing up-side-down..JPG)*Sea asparagus growing upside-down*
 
@@ -128,7 +129,8 @@ We ended up working ourselves into a tizzy. We decided to move the tent to a hig
 
 The next morning, we were thinking of cancelling our trip to Quatsino. We were late for the flooding tide (this sounds a lot like catching a subway). We decided instead to paddle the last leg of the trip against the ebbing tide at a leisurely pace. We were bound to get there sooner or later. 
 
-Video: Chloe helping to pack up the tent
+{% youtube Y8Ywi0dfbP8 %}
+
 ![Drake-Island](/assets/images/post14-drakeisland/It's a kayaking dog's life.JPG)*It’s a kayaking dog’s life*
 
 We crossed the sound diagonally, seeing many passing speed boats. We saw a shoreline of houses, many of which were boarded up. Quatsino has seen better days and, I think, will see them again in the future once people discover what a paradise this is. 
@@ -168,7 +170,8 @@ We checked out St. Olaf’s church. James was just going to peek in the windows 
 
 Back at our launch point, we sat and had a snack and took pictures and videos of the snakes. It is amazing that snakes can be so beautiful! And fast! In a place where time moves so slowly, it was odd to see something move like it was late for a very important meeting!
 
-Video: Snakes!
+{% youtube RCpW9Ayq-HE %}
+
 ![Drake-Island](/assets/images/post14-drakeisland/Chloe eager to get in a kayak.JPG)*Chloe eager to get in a kayak*
 
 For the trip back to Atkin’s Cove, I was back in Tigger and James in Eeyore. We paddled over the sound surprisingly fast. We took only 15 minutes to cross it. The snakes must have given us some of their energy.
