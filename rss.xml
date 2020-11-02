@@ -8,7 +8,16 @@
     <title>Chloe the Kayaking Chihuahua</title>
     <link>http://chloethekayakingchihuahua.com</link>
     <description>One small dog discovering the beauty of Vancouver Island.</description>
-    <pubDate>Tue, 12 May 2020 17:15:00 +0000</pubDate>
+    <pubDate>Mon, 26 Oct 2020 17:15:00 +0000</pubDate>
+    <item>
+      <title>Schoen Lake: Cathedral in the Sky</title>
+      <link>http://chloethekayakingchihuahua.com/schoen-lake</link>
+      <description>As the mill in Port Alice closed down and people moved away for work, James and I eventually ended up joining the exodus in September of 2016. He went to a mill maintenance shut down in Mackenzie, then was offered a job there. I kept my place in Port Alice and we planned to come back for holidays to kayak and continue the blog. In the summer of 2017, I came back to Port Alice earlier with Chloe and the cats to do some work on my house. When James arrived for his two-week holiday, we crammed in three monumental (and as it turned out) life-altering kayaking trips into those two weeks.
+
+</description>
+      <pubDate>Mon, 26 Oct 2020 17:15:00 +0000</pubDate>
+      <dc:date>2020-10-26T17:15:00+00:00</dc:date>
+    </item>
     <item>
       <title>Drake Island and Quatsino: Ghosts of the Sound</title>
       <link>http://chloethekayakingchihuahua.com/drake-island-quatsino</link>
@@ -162,6 +171,6 @@ The entries into this blog of our 2015 kayaking trips will be entered in belated
       <pubDate>Wed, 17 Feb 2016 10:18:00 +0000</pubDate>
       <dc:date>2016-02-17T10:18:00+00:00</dc:date>
     </item>
-    <dc:date>2020-05-12T17:15:00+00:00</dc:date>
+    <dc:date>2020-10-26T17:15:00+00:00</dc:date>
   </channel>
 </rss>
