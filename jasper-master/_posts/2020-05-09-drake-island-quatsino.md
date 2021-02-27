@@ -129,7 +129,7 @@ We ended up working ourselves into a tizzy. We decided to move the tent to a hig
 
 The next morning, we were thinking of cancelling our trip to Quatsino. We were late for the flooding tide (this sounds a lot like catching a subway). We decided instead to paddle the last leg of the trip against the ebbing tide at a leisurely pace. We were bound to get there sooner or later. 
 
-{% youtube Y8Ywi0dfbP8 %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y8Ywi0dfbP8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![Drake-Island](/assets/images/post14-drakeisland/It's a kayaking dog's life.JPG)*It’s a kayaking dog’s life*
 
@@ -170,7 +170,7 @@ We checked out St. Olaf’s church. James was just going to peek in the windows 
 
 Back at our launch point, we sat and had a snack and took pictures and videos of the snakes. It is amazing that snakes can be so beautiful! And fast! In a place where time moves so slowly, it was odd to see something move like it was late for a very important meeting!
 
-{% youtube RCpW9Ayq-HE %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCpW9Ayq-HE" frameborder="0" allowfullscreen></iframe>
 
 ![Drake-Island](/assets/images/post14-drakeisland/Chloe eager to get in a kayak.JPG)*Chloe eager to get in a kayak*
 
