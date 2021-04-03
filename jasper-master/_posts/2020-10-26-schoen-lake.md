@@ -16,18 +16,18 @@ Mackenzie reminded me very much of my hometown, Athabasca, in Alberta, except it
 
 We took quite a few kayak trips around Mackenzie in the spring, to Morfee Lake, Tudya Lake, Azouzetta Lake and Dina Lakes. Morfee Lake is right in the municipality of Mackenzie. You can’t see any trace of the town when you’re there, so it feels like you are deep in the wilderness. Tudya Lake is a quiet and quite secluded-feeling lake 25 minutes south of Mackenzie, just off of highway 97. Azouzetta Lake is nestled in the mountains near the famous Powder King ski resort on the road to Dawson Creek. Dina Lakes was unique. Near the sprawling Williston Lake, it is a cluster of lakes with portage routes of varying lengths. We took a shorter portage and ended up encountering a moose and a brown bear quite close up. The north certainly merits its own blog, but I will only include a few photos for the sake of comparison. One thing about kayaking in the north—though we saw some beautiful pristine sites—there was something about the lack of tides that was disappointing. I guess the changing tides add an extra element of challenge and adventure to a kayaking trip.
 
-##Morfee Lake
+####<i>Morfee Lake</i>
 ![Schoen Lake](/assets/images/post15-schoenlake/morfee_10.jpg)
-##Tudya Lake
+####<i>Tudya Lake</i>
 ![Schoen Lake](/assets/images/post15-schoenlake/tudya_68.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/tudya_107.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/tudya_205.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/tudya_250.jpg)
-##Azouzetta Lake
+####<i>Azouzetta Lake</i>
 ![Schoen Lake](/assets/images/post15-schoenlake/azuouzetta_235.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/azouzetta_278.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/azouzetta_295.jpg)
-##Dina Lakes
+####<i>Dina Lakes</i>
 ![Schoen Lake](/assets/images/post15-schoenlake/dina_1.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/dina_2.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/dina_3.jpg)
@@ -52,7 +52,7 @@ The road is still for die-hards. If you take an 80-foot camper on that road it�
 
 Schoen Lake is surrounded by mountains that encase it like tall cathedral walls. The mountains were so big and close, I could barely fit them into the frame of my camera. Unfortunately, inexperienced with my new recently acquired digital camera and equipment, I did not realize that I had a wide-angle lens in my camera pouch that could have captured everything in a single frame. It wouldn’t have captured the closed in feeling though. 
 
-##Mountain Gallery
+####<i>Mountain Gallery</i>
 ![Schoen Lake](/assets/images/post15-schoenlake/mountain_0.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/mountain_1.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/mountain_2.jpg)
@@ -79,7 +79,7 @@ The real waterfall bonus came when we reached the end of the lake and looked up 
 
 When we landed at the end of the lake, we found ourselves in a dark, spirited old growth forest. I went around snapping the better part of my standard minimum 400 shots for a daily kayak outing. A lot of them ended up overexposed because I didn’t know how to adjust my camera for dark places. I did manage to get a few that captured the magic of the forest. 
 
-##Rainforest gallery
+####<i>Rainforest Gallery</i>
 ![Schoen Lake](/assets/images/post15-schoenlake/rf_0.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/rf_1.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/rf_2.jpg)

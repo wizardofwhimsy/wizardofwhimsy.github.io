@@ -28,9 +28,9 @@ Of Ed Frigon’s many wives, most of them were Indigenous. He outlived some, was
 Frigon carried on trading on Hope Island until 1889, then built a second trading post at Korprino Harbour. In 1895 he moved to Quiet Cove, (Pamphlet Cove) on Limestone Island (now Drake Island) where he built a store, hospital, steamship stop and hotel with a saloon that had the ‘longest bar north of San Francisco.’ When rumours of prohibition were about, Frigon sold his hotel to the mill in 1917. He retreated to a large property north of Port Alice to live with his last common law wife, Lucy Moon. Lucy Moon had the title of “The Last of the Long Heads”: she was the last member of a group of Indigenous people who bound the heads of their children to elongate them. The hotel was floated down to Port Alice where it became a boarding house for mill workers, called “Jones’ Hotel.” 
 
 ![Drake-Island](/assets/images/post14-drakeisland/Frigon's hotel and general store.JPG)*Frigon’s hotel and general store*
-![Drake-Island](/assets/images/post14-drakeisland/Young Ed Frigon.JPG)*Young Ed Frigon*
-![Drake-Island](/assets/images/post14-drakeisland/Middle-aged Ed Frigon.JPG)*Middle-aged Ed Frigon*
-![Drake-Island](/assets/images/post14-drakeisland/Elderly Ed Frigon.JPG)*Elderly Ed Frigon*
+![Drake-Island](/assets/images/post14-drakeisland/Young Ed Frigon.JPG)*<center>Young Ed Frigon</center>*
+![Drake-Island](/assets/images/post14-drakeisland/Middle-aged Ed Frigon.JPG)*<center>Middle-aged Ed Frigon</center>*
+![Drake-Island](/assets/images/post14-drakeisland/Elderly Ed Frigon.JPG)*<center>Elderly Ed Frigon</center>*
 ![Drake-Island](/assets/images/post14-drakeisland/Frigon's hotel getting floated to the mill.JPG)*Frigon’s hotel getting floated to the mill*
 
 To get to Drake Island we ended up launching from Atkin’s Cove, a place we had been to before. To get there you take Neroutsos Main north of Port Alice on the east side of Neroutsos Inlet. Keep going on Neroutsos Main for 12 kilometres. Make sure to keep a careful eye on your odometer—it might be the only way you’ll be able to find the proper turn. About halfway there you will see a fork in the road with a branch that goes up the mountain. Don’t take it. That’s Quarry Main. It won’t take you to Atkin’s Cove, but it will take you up the mountain for an incredible view! Go up too far and you will definitely be needing a four-wheel drive and a strong stomach for driving on high mountain roads! Once you pass a side road on Nertoutsos Main with a wire across it, go a few metres further and turn left along a little “goat trail” that’s just wide enough for a vehicle to pass. Sometimes it is overgrown with shrubs, but sometimes it’s brushed. Drive for about a half a kilometre to a pull-out where you can park. In total, you shouldn’t go over 13 km from Port Alice. Any more than that and you’re lost! Let me remind you that if you go out into the bush, make sure to inform someone where you’re going and when you plan to be back so you don’t have to wait for days or even weeks before someone realizes you are missing. 
@@ -139,7 +139,7 @@ We cut around an island and a small peninsula. Finally, we came up to a lighthou
 
 ![Drake-Island](/assets/images/post14-drakeisland/The Quatsino Lighthouse.JPG)*The Quatsino Lighthouse*
 ![Drake-Island](/assets/images/post14-drakeisland/View of St. Olaf's from the water.JPG)*View of St. Olaf’s Church seen from the water*
-![Drake-Island](/assets/images/post14-drakeisland/indian_church.jpg)*Emily Carr’s painting  <i>The Indian Church</i>, 1929*
+![Drake-Island](/assets/images/post14-drakeisland/indian_church.jpg)*<center>Emily Carr’s painting  <i>The Indian Church</i>, 1929</center>*
 
 We paddled under the wharf, and, after landing, found ourselves in the company of a community of snakes zipping about hither and thither. 
 
@@ -153,7 +153,7 @@ Until then, I didn’t have a boat to get to Quatsino and check it out myself. W
 
 Quatsino is a very different way of life. To get anywhere, you need a boat. The community once had an opportunity to install a road, but they voted against it. Although I tend to think of Port Alice as remote, residents leave Quatsino for Port Alice to do their shopping and have a bit of social life and “culture.” 
 
-![Drake-Island](/assets/images/post14-drakeisland/Backwoods GPS.JPG)*Backwoods GPS*
+![Drake-Island](/assets/images/post14-drakeisland/Backwoods GPS.JPG)*<center>Backwoods GPS</center>*
 ![Drake-Island](/assets/images/post14-drakeisland/Been parked here a while.JPG)*Been parked here a while*
 
 We went straight to the Museum, which looked like the only thing open.  We met the curator, Gwen Hansen. I asked her about Ed Frigon, and she led me to a filing cabinet. I read stuff while she and James conversed. Finally, feeling overwhelmed, I asked if I could get copies of the files. 
@@ -170,7 +170,7 @@ We checked out St. Olaf’s church. James was just going to peek in the windows 
 
 Back at our launch point, we sat and had a snack and took pictures and videos of the snakes. It is amazing that snakes can be so beautiful! And fast! In a place where time moves so slowly, it was odd to see something move like it was late for a very important meeting!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCpW9Ayq-HE" frameborder="0" allowfullscreen></iframe>
+<iframe width="1620" height="1080" src="https://www.youtube.com/embed/RCpW9Ayq-HE" frameborder="0" allowfullscreen></iframe>
 
 ![Drake-Island](/assets/images/post14-drakeisland/Chloe eager to get in a kayak.JPG)*Chloe eager to get in a kayak*
 
