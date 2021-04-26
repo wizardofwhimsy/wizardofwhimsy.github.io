@@ -88,12 +88,12 @@ When we landed at the end of the lake, we found ourselves in a dark, spirited ol
 ![Schoen Lake](/assets/images/post15-schoenlake/rf_5.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/rf_6.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/rf_7.jpg)
-![Schoen Lake](/assets/images/post15-schoenlake/rf_8.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/rf_9.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/rf_11.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/rf_12.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/rf_13.jpg)
 ![Schoen Lake](/assets/images/post15-schoenlake/rf_15.jpg)
+![Schoen Lake](/assets/images/post15-schoenlake/rf_8.jpg)
 
 We followed a trail going in the opposite direction of the ice fields, on the hunt for waterfalls. By trail I don’t mean a wide path with lots of signage, I mean a wormy little skinny trail half hidden by shrubs and marked by tiny and very short strips of florescent tape. It only went so far, but it did at least bring us to a small waterfall. James, always wanting to explore, climbed behind it to investigate. I sat on the rocks, enjoying the waterfall and practicing getting the flowing water effect with my camera. It wasn’t hard, being that the light was so limited. It gave me no option but to use the required slower shutter speed. 
 
