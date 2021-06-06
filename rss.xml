@@ -8,7 +8,16 @@
     <title>Chloe the Kayaking Chihuahua</title>
     <link>http://chloethekayakingchihuahua.com</link>
     <description>One small dog discovering the beauty of Vancouver Island.</description>
-    <pubDate>Sat, 27 Feb 2021 17:15:00 +0000</pubDate>
+    <pubDate>Sun, 06 Jun 2021 17:15:00 +0000</pubDate>
+    <item>
+      <title>Devil’s Bath: A Great Place to Find an Old Flame (and Examine a Few Skeletons)</title>
+      <link>http://chloethekayakingchihuahua.com/devils-bath</link>
+      <description>&lt;b&gt;August 6, 2017&lt;/b&gt;
+
+</description>
+      <pubDate>Sun, 06 Jun 2021 17:15:00 +0000</pubDate>
+      <dc:date>2021-06-06T17:15:00+00:00</dc:date>
+    </item>
     <item>
       <title>Side Bay: Port Alice's Best Kept Secret</title>
       <link>http://chloethekayakingchihuahua.com/side-bay</link>
@@ -180,6 +189,6 @@ The entries into this blog of our 2015 kayaking trips will be entered in belated
       <pubDate>Wed, 17 Feb 2016 10:18:00 +0000</pubDate>
       <dc:date>2016-02-17T10:18:00+00:00</dc:date>
     </item>
-    <dc:date>2021-02-27T17:15:00+00:00</dc:date>
+    <dc:date>2021-06-06T17:15:00+00:00</dc:date>
   </channel>
 </rss>
