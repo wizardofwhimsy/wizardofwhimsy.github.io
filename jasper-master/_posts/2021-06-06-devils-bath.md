@@ -3,7 +3,7 @@ layout: post
 cover: false
 title: "Devil’s Bath: A Great Place to Find an Old Flame (and Examine a Few Skeletons)"
 date: 2021-06-06 17:15:00
-tags: Kayaking, Personal
+tags: Kayaking Personal
 subclass: 'post tag-kayaking'
 categories: 'dlynn'
 ---
@@ -35,7 +35,7 @@ We were acting like a couple of goof balls, forgetting things and almost losing 
 
 Since we were way behind schedule anyway, we decided to kill even more time and have a sit-down dinner in at Montanas. By the time we crept into Link River, it was around midnight. James was shocked to see us venture on wilderness roads so late. Travelling in the bush in the middle of the night is not something I would normally do, but the route to Link River is short and clearly marked.  
 
-August 7, 2017
+<b>August 7, 2017</b>
 
 We had the typical type of family outing, with kayaking, swimming and sun-bathing. I got to be grandmother to little Gabby, just following her around and helping her to explore things. Ramzi and I paddled out to the driftwood graveyard that James and I had visited on our very first kayaking trip, but the driftwood somehow looked flattened and less interesting. I guess we’ve had a great many adventures since then! Ramzi had to do a few goofy things: shoot water all around with the bilge pump and sit at a submerged picnic table looking like he’s waiting for a server. He’s a comedian! 
 
