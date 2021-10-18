@@ -8,7 +8,16 @@
     <title>Chloe the Kayaking Chihuahua</title>
     <link>http://chloethekayakingchihuahua.com</link>
     <description>One small dog discovering the beauty of Vancouver Island.</description>
-    <pubDate>Sun, 06 Jun 2021 17:15:00 +0000</pubDate>
+    <pubDate>Sun, 29 Aug 2021 17:15:00 +0000</pubDate>
+    <item>
+      <title>Telegraph Cove: the Guided Kayaking Tour Experience</title>
+      <link>http://chloethekayakingchihuahua.com/telegraph-cove</link>
+      <description>I didn't do any kayaking in 2018. I was too busy struggling to make a living. I worked the summer as the marina manager at the Rumble Beach Marina in Port Alice. I also did some babysitting and cleaning and started my own private art classes for children in Port McNeill. 
+
+</description>
+      <pubDate>Sun, 29 Aug 2021 17:15:00 +0000</pubDate>
+      <dc:date>2021-08-29T17:15:00+00:00</dc:date>
+    </item>
     <item>
       <title>Devil’s Bath: A Great Place to Find an Old Flame (and Examine a Few Skeletons)</title>
       <link>http://chloethekayakingchihuahua.com/devils-bath</link>
@@ -189,6 +198,6 @@ The entries into this blog of our 2015 kayaking trips will be entered in belated
       <pubDate>Wed, 17 Feb 2016 10:18:00 +0000</pubDate>
       <dc:date>2016-02-17T10:18:00+00:00</dc:date>
     </item>
-    <dc:date>2021-06-06T17:15:00+00:00</dc:date>
+    <dc:date>2021-08-29T17:15:00+00:00</dc:date>
   </channel>
 </rss>
