@@ -8,7 +8,16 @@
     <title>Chloe the Kayaking Chihuahua</title>
     <link>http://chloethekayakingchihuahua.com</link>
     <description>One small dog discovering the beauty of Vancouver Island.</description>
-    <pubDate>Sun, 29 Aug 2021 17:15:00 +0000</pubDate>
+    <pubDate>Sun, 14 May 2023 17:15:00 +0000</pubDate>
+    <item>
+      <title>Chloe's Last Summer, Part 1</title>
+      <link>http://chloethekayakingchihuahua.com/chloes-last-summer</link>
+      <description>Please note, the following posts are being uploaded about 5 years after the fact. I was having technical difficulties learning how to make Chloe’s video, was dealing with some health issues, and was quite besieged with seemingly never-ending renovations of my house as I prepared it for sale. The renovations to my house are finally done, and the house is on the market. Better posting late than never, I guess!
+
+</description>
+      <pubDate>Sun, 14 May 2023 17:15:00 +0000</pubDate>
+      <dc:date>2023-05-14T17:15:00+00:00</dc:date>
+    </item>
     <item>
       <title>Telegraph Cove: the Guided Kayaking Tour Experience</title>
       <link>http://chloethekayakingchihuahua.com/telegraph-cove</link>
@@ -198,6 +207,6 @@ The entries into this blog of our 2015 kayaking trips will be entered in belated
       <pubDate>Wed, 17 Feb 2016 10:18:00 +0000</pubDate>
       <dc:date>2016-02-17T10:18:00+00:00</dc:date>
     </item>
-    <dc:date>2021-08-29T17:15:00+00:00</dc:date>
+    <dc:date>2023-05-14T17:15:00+00:00</dc:date>
   </channel>
 </rss>
