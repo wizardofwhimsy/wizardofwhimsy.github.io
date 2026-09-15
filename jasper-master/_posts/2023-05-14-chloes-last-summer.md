@@ -98,3 +98,5 @@ It was a dreary day in January when I loaded up the car with my kayak and drove 
 Every once in a while I wonder where Chloe’s sarcophagus is now. She might be tucked away in some cave along the Quatsino Sound, or she could very well have ended up on the open ocean…or she might even have made it to Japan! I wrote on her little box with an engraver, “Chloe, June 9th, 2009 to August 13th, 2020, RIP.” I attached a laminated business card for the blog on the front of her box.
 
 Maybe it will be discovered by archeologists someday!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rIOwvZUzeJg?si=xs1SCaukqg0duXtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
